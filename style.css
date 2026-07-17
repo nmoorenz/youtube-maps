@@ -1,0 +1,52 @@
+/* Shared styles for all channel map pages. Edit once, applies everywhere. */
+
+html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+#map { position: absolute; top: 0; bottom: 0; left: 0; right: 0; }
+
+/* The thumbnail marker itself */
+.yt-marker {
+  width: 96px;
+  height: 64px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.45);
+  border: 3px solid #fff;
+  background: #222 center/cover no-repeat;
+  cursor: pointer;
+  transition: transform .12s ease;
+  position: relative;
+}
+.yt-marker:hover { transform: scale(1.12); z-index: 1000; }
+.yt-marker img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+/* Little red play badge in the corner */
+.yt-marker .play {
+  position: absolute; right: 4px; bottom: 4px;
+  width: 22px; height: 16px; border-radius: 4px;
+  background: #ff0000; display: flex; align-items: center; justify-content: center;
+}
+.yt-marker .play::after {
+  content: ""; border-style: solid; border-width: 4px 0 4px 7px;
+  border-color: transparent transparent transparent #fff; margin-left: 1px;
+}
+
+/* Fallback text shown if a thumbnail fails to load */
+.yt-marker .fallback {
+  position: absolute; inset: 0; display: none;
+  align-items: center; justify-content: center; text-align: center;
+  color: #fff; font-size: 11px; padding: 4px; line-height: 1.2;
+}
+
+.leaflet-tooltip.yt-tip {
+  font-size: 12px; font-weight: 600; max-width: 200px; white-space: normal;
+}
+
+/* Title bar (top-left) */
+.titlebar {
+  position: absolute; top: 10px; left: 50px; z-index: 1000;
+  background: rgba(255,255,255,0.94); padding: 8px 14px; border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-weight: 700; font-size: 15px;
+}
+.titlebar a { font-weight: 400; font-size: 12px; color: #555; text-decoration: none; }
+.titlebar a:hover { text-decoration: underline; }
+.titlebar .hint { font-weight: 400; font-size: 12px; color: #555; }
