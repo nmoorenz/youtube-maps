@@ -57,16 +57,22 @@ A channel page loads three scripts in order:
    two globals: `MAP_TITLE` (a string) and `PLACES` (an array).
 3. **`map.js`** — reads those globals and draws the map.
 
-Each entry in `PLACES` looks like:
+Each entry in `PLACES` has a `title`, a `video`, and coordinates, plus optional
+`location` / `season` / `episode` fields used for the hover label:
 
 ```js
-{ title: "Shop name", video: "https://www.youtube.com/watch?v=VIDEO_ID", lat: 35.68, lng: 139.65 }
+{ title: "Shop name", location: "City, Region", video: "https://www.youtube.com/watch?v=VIDEO_ID", lat: 35.68, lng: 139.65 }
+// season/episode are optional (e.g. for Time Team):
+{ title: "Episode title", location: "Dig site, County", season: 7, episode: 2, video: "…", lat: 51.7, lng: -1.9 }
 ```
 
-`video` can be a full YouTube URL or a bare 11-character video ID. The
-thumbnail image is derived automatically from the video ID. Any entry whose
-`lat` or `lng` is `null` is skipped, so you can build a map up gradually as you
-fill in coordinates.
+`video` can be a full YouTube URL or a bare 11-character video ID; the thumbnail
+is derived from it. An entry **with** a video renders as a clickable thumbnail;
+one **with coordinates but no video** renders as a plain location pin (so a map
+can show every place even before its video is found). The hover label stacks up
+to three lines — title, then location, then `Sx Ey` — showing whichever are
+present. Any entry whose `lat` or `lng` is `null` is skipped, so you can fill
+coordinates in gradually.
 
 ## Two ways to build a map's data
 
@@ -154,9 +160,9 @@ connection and pauses briefly between links.
 
 #### Filling gaps later with geocode.py
 
-`extract_places.py` rewrites the whole `.js`. Once you've started hand-editing
-coordinates, use `geocode.py` instead to top up only what's missing — it's
-non-destructive:
+`extract_places.py` re-parses descriptions on each run (non-destructively). To
+top up just the still-missing coordinates without re-parsing — e.g. after you've
+hand-corrected an address — use `geocode.py`:
 
 ```
 python scripts/geocode.py japanese-food-noodles.js --country jp
@@ -174,7 +180,7 @@ Whatever it still can't resolve, fill in by hand in the `.js`.
 keys off the `Shop Name` / `Store Name` / `Name` labels, so if a channel
 doesn't include them (or has a maps link with no name label), it simply finds
 nothing for those videos — it won't error, it just returns empty results. In
-that case, skip Step 2 entirely: the starter `japanese-food-noodles.js` from
+that case, skip Step 2 entirely: the starter `data/japanese-food-noodles.js` from
 Step 1 already lists every video with its **video title** as the marker name
 and `lat`/`lng` set to `null`, so you can just fill in coordinates by hand.
 Note that `fetch_channel.py` itself never parses descriptions, so it works on
@@ -196,6 +202,19 @@ python scripts/parse_timeteam.py    # reads data/timeteam-classics.json -> data/
 
 Options: `--no-geocode` to skip coordinate lookup, `--no-uk-bias` to search
 worldwide, and `--demo` to see the title parsing on built-in examples.
+
+Once you've reviewed and fixed that CSV, turn it into a map page with
+`csv_to_map.py`:
+
+```
+python scripts/csv_to_map.py data/timeteam-classics.csv --title "Time Team Classics" --note "UK archaeology digs"
+```
+
+That writes `timeteam-classics.js` and `timeteam-classics.html` at the root and
+adds a card to `index.html`. `csv_to_map.py` works for any curated CSV with
+`title`, `video_url`, `location`, `lat`, `lng` (and optional `season`/`episode`)
+columns, not just Time Team; the hover label uses whichever of those are present.
+Finish by running `python scripts/make_previews.py` for the thumbnail.
 
 #### Better route for Time Team: start from Wikipedia
 
@@ -243,7 +262,7 @@ fills in with thumbnails as you accumulate videos. Use `--matched-only` if you'd
 rather show just the episodes that have a video.
 
 `wiki_episodes.py` parses Wikipedia (standard library only). `fetch_channel.py`
-pulls and accumulates the channel's videos into `timeteam-classics.json`.
+pulls and accumulates the channel's videos into `data/timeteam-classics.json`.
 `match_channel.py` reads that JSON plus the episode list (no network of its own),
 attaches a `video_url` to each episode, and writes the map directly. It matches
 on **season + episode first**
@@ -259,21 +278,8 @@ where the two titles differ (a `season/episode` match with a low title score, or
 a title-only match); pass `--review` to dump those details to a CSV.
 
 Note: for episodes that list several dig sites, only the **first** coordinate in
-the Wikipedia cell is used.
-
-Once you've reviewed and fixed the CSV, turn it into a map page with
-`csv_to_map.py`:
-
-```
-python scripts/csv_to_map.py data/timeteam-classics.csv --title "Time Team Classics" --note "UK archaeology digs"
-```
-
-That writes `timeteam-classics.js` and `timeteam-classics.html`, and adds a card
-to `index.html`. Each marker's hover label shows up to three lines — title, then
-location, then `Sx Ey` — using whichever of those columns are present.
-`csv_to_map.py` works for any curated CSV with `title`, `video_url`, `location`,
-`lat`, `lng` (and optional `season`/`episode`) columns, not just Time Team.
-Finish by running `make_previews.py` to generate the home-page thumbnail.
+the Wikipedia cell is used. Each marker's hover label shows up to three lines —
+episode title, then dig location, then `Sx Ey`.
 
 ## Building a map from a list of links
 
@@ -375,7 +381,7 @@ the publish directory as the root).
 
 - Coordinate resolution follows short links (`maps.app.goo.gl`). Occasionally a
   link lands on a Google consent page instead of the map; those rows come back
-  with blank coordinates in `places.csv`, and you can fill them in by opening
+  with blank coordinates in `data/places.csv`, and you can fill them in by opening
   the link in a browser and copying the numbers.
 - `map.js`, `style.css`, and Leaflet are shared, so a visual change in one place
   applies to every channel map.
