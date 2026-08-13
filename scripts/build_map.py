@@ -52,6 +52,8 @@ import json
 import argparse
 from urllib.parse import urlparse, parse_qs, unquote
 
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 try:
     import requests
 except ImportError:
@@ -230,16 +232,16 @@ def main():
 
     titles = get_titles(ids, do_lookup=not args.no_titles)
 
-    js_file = slug + ".js"
-    html_file = slug + ".html"
-    write_js(js_file, map_title, ids, titles)
-    write_html(html_file, map_title, js_file)
-    print("Wrote %s and %s" % (html_file, js_file))
+    js_name = slug + ".js"
+    html_name = slug + ".html"
+    write_js(os.path.join(ROOT, js_name), map_title, ids, titles)
+    write_html(os.path.join(ROOT, html_name), map_title, js_name)
+    print("Wrote %s and %s" % (html_name, js_name))
 
     if not args.no_index:
-        add_to_index("index.html", html_file, map_title, args.note)
+        add_to_index(os.path.join(ROOT, "index.html"), html_name, map_title, args.note)
 
-    print("\nNext: open %s and fill in lat/lng for each entry." % js_file)
+    print("\nNext: open %s and fill in lat/lng for each entry." % js_name)
 
 
 if __name__ == "__main__":

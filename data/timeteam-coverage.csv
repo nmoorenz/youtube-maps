@@ -1,0 +1,236 @@
+season,episode,title,location,has_coords,found,match_method,match_score,video_title,video_url
+1,1,The Guerrilla Base of the King,"Athelney, Somerset",True,True,title,0.841,The Guerilla Base of the King | Time Team,https://www.youtube.com/watch?v=XmzdL7A5jac
+1,2,On the Edge of an Empire,"Ribchester, Lancashire",True,True,title,1.0,On the Edge of an Empire | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=7uGM0aVQHTw
+1,3,The New Town of a Norman Prince,"Much Wenlock, Shropshire",True,True,title,1.0,The New Town of a Norman Prince | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=zPmM0PRqegA
+1,4,The Fortress in the Lake,"Llangorse Lake, Powys",True,True,title,1.0,The Fortress in the Lake | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=qpJHsC5cacY
+1,,Title[2],Location[2],False,False,,0.324,,
+2,1,Lord of the Isles,"Finlaggan, Islay",True,True,title,1.0,Lord Of The Isles | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=X5_Bs7Mfj7Y
+2,2,The Saxon Graves,"Winterbourne Gunner, Wiltshire",True,True,title,1.0,The Saxon Graves | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=dH9dHw_xsvM
+2,3,The Lost Villa,"Tockenham, Wiltshire",True,True,title,1.0,The Lost Villa | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=a5BOojQOJz4
+2,4,The Archbishop's Back Garden,"Lambeth Palace, London",True,True,season/episode,0.25,Did We Just Find the Real First Roman Road in London? | Time Team - S2 E4,https://www.youtube.com/watch?v=anUGGUPQDKg
+2,5,Medieval Dining Hall,"Hylton Castle, Sunderland",True,True,title,1.0,Medieval Dining Hall | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=34qeBgEfNDY
+3,1,Prehistoric Fogou,"Boleigh, CornwallTreveneague, Cornwall",True,False,,0.586,,
+3,2,Hunting for Mammoth,"Stanton Harcourt, Oxfordshire",True,True,title,1.0,Hunting for Mammoth | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=vZuIbam4Rxg
+3,3,Village of the Templars,"Templecombe, Somerset",True,True,season/episode,0.362,Secrets of the Knights Templar Unearthed at Templecombe | Time Team - S3 E3,https://www.youtube.com/watch?v=O9yOh-QbBl8
+3,4,A Wreck of the Spanish Armada,"Teignmouth, Devon",True,True,season/episode,0.313,Mystery of the 16th Century Shipwreck - Time Team's Underwater Discovery | Time Team - S3 E4,https://www.youtube.com/watch?v=Dg-OWrQkpBM
+3,5,Palace of the Irish Kings,Emain MachaCreeveroeHaughey's FortBallydoo,True,True,season/episode,0.283,Searching for King Connor's Lost Palaces - Ancient Ulster Unearthed | Time Team - S3 E5,https://www.youtube.com/watch?v=l_W1WowRw2E
+3,6,Treasures of the Roman Field,"Lavenham, Suffolk",True,True,title,0.621,➤ Time Team's Last of The ROMANS,https://www.youtube.com/watch?v=jbbYXw0Smiw
+4,1,"Episode One (Maryland, USA)","St. Mary's City, Maryland, United States",True,False,,0.478,,
+4,2,Episode Two (Mystery of the Cornish Skeletons),"Launceston, Cornwall",True,False,,0.506,,
+4,3,Steam-Powered Mint,"Soho, Birmingham",True,False,,0.468,,
+4,4,8th Century Church,"Govan, Glasgow",True,False,,0.448,,
+4,5,Norman and Medieval Castles,"Malton, North Yorkshire",True,True,season/episode,0.411,Unearthing Malton: Secrets of the Medieval Castle and Jacobean Mansion | Time Team - S4 E5,https://www.youtube.com/watch?v=kGhHtp2QpTo
+4,6,Roman Villa,"Netheravon, Wiltshire",True,True,title,1.0,Unearthing Britain’s Lost Roman Villa - Secrets of Ancient Gloucestershire | Time Team - S6 E9,https://www.youtube.com/watch?v=-_LfDCpZ1rg
+5,1,Episode One (Search for Richmond Palace),"Richmond, Surrey",True,True,season/episode,0.473,"Search for Richmond Palace (Full Episode) | S5 EP1 | Time Team (Richmond, Surrey)",https://www.youtube.com/watch?v=HOnJH-3IAwE
+5,2,Episode Two (Somerset Levels),"Greylake, Somerset",True,True,season/episode,0.411,"Uncovering a 3,000-Year-Old Bronze Age Mystery in the Somerset Levels | Time Team - S5 E2",https://www.youtube.com/watch?v=JqYMoeL5YVM
+5,3,"Episode Three (Sanday, Orkney)","Sanday, Orkney",True,True,season/episode,0.371,"Sanday, Orkney (Full Episode) | S5 EP3 | Time Team",https://www.youtube.com/watch?v=4NFiKwXTMdU
+5,4,Turkdean,"Turkdean, Gloucestershire",True,True,title,1.0,Back To Turkdean: Revisiting One Of Britain's Largest Roman Sites | Time Team,https://www.youtube.com/watch?v=mInuesqb6e4
+5,5,"Episode Five (Beaker Settlement, Mallorca, Spain)","Deià, Mallorca, Spain",True,True,season/episode,0.566,"Beaker Settlement (Full Episode) | S5 EP5 | Time Team (Majorca, Spain)",https://www.youtube.com/watch?v=c9IfJqfPBdw
+5,6,Episode Six (Aston Eyre),"Aston Eyre, Shropshire",True,False,,0.462,,
+5,7,"Episode Seven (Cathedral Hill, Downpatrick, County Down)","Downpatrick, County Down",True,True,season/episode,0.633,"Cathedral Hill (Full Episode) | S5 EP7 | Time Team (Downpatrick, County Down)",https://www.youtube.com/watch?v=8KrRsZfju2c
+5,8,Episode Eight (High Worsall),"High Worsall, North Yorkshire",True,True,season/episode,0.495,"High Worsall (Full Episode) | S5 EP8 | Time Team (High Worsall, North Yorkshire)",https://www.youtube.com/watch?v=p0SVGPGxLJI
+6,1,Wedgwood's First Factory,"Burslem, Stoke-on-Trent",True,True,season/episode,1.0,"Wedgwood's First Factory (Full Episode) | S6 EP1 | Time Team (Burslem, Stoke-on-Trent)",https://www.youtube.com/watch?v=zBg4_qb3Qmo
+6,2,"Episode Two (Roman Building, Papcastle, Cumbria)","Papcastle, Cumbria",True,False,,0.526,,
+6,3,"Episode Three (Dominican Friary, Thetford, Norfolk)","Thetford, Norfolk",True,False,,0.436,,
+6,4,Cooper's Hole,"Cheddar Gorge, Somerset",True,False,,0.408,,
+6,5,"Episode Five (Plympton, Devon)","Plympton, Devon",True,False,,0.477,,
+6,6,"Episode Six (Medieval Dockyard, Smallhythe, Kent)","Smallhythe, Kent",True,False,,0.483,,
+6,7,"Episode Seven (Roman Bath-house, Beauport Park, Sussex)","Beauport Park, East Sussex",True,True,season/episode,0.603,"The Roman Bathhouse (Full Episode) | S6 EP7 | Time Team (Beauport Park, East Sussex)",https://www.youtube.com/watch?v=NIi6iMinOug
+6,8,Bombers in Reedham Marshes,"Reedham marshes, Norfolk",True,False,,0.492,,
+6,9,Turkdean II,"Turkdean, Gloucestershire",True,True,season/episode,0.141,Unearthing Britain’s Lost Roman Villa - Secrets of Ancient Gloucestershire | Time Team - S6 E9,https://www.youtube.com/watch?v=-_LfDCpZ1rg
+6,10,"Episode Ten (Bronze Age, Kemerton, Worcestershire)","Kemerton, Worcestershire",True,True,season/episode,0.562,"Bronze Age Cropmarks (Full Episode) | S6 EP10 | Time Team (Kemerton, Worcestershire)",https://www.youtube.com/watch?v=vhF-74dMBJU
+6,11,"Episode Eleven (Norman Church, Bawsey, Norfolk)","Bawsey, Norfolk",True,True,season/episode,0.337,"Bawsey St James, Norfolk | S06E11 | Time Team",https://www.youtube.com/watch?v=aCm_P-h-sYI
+6,12,Nevis (Part 1 of 2),"Nevis, West Indies",True,True,season/episode,0.39,Nevis: Part 1 (Full Episode) | S6 EP12 | Time Team (Saint Kitts and Nevis),https://www.youtube.com/watch?v=bssVE1F896Y
+6,13,Nevis (Part 2 of 2),"Nevis, West Indies",True,True,season/episode,0.205,Lost Jamestown Found: Unearthing Nevis's Hidden History | Time Team - S6 E13,https://www.youtube.com/watch?v=YoBTVy78O9M
+7,1,A Muslim Port in Spain,"Denia, Spain",True,True,season/episode,1.0,"A Muslim Port in Spain (Full Episode) | S7 EP1 | Time Team (Denia, Spain)",https://www.youtube.com/watch?v=kxe3zXFPXo8
+7,2,The Mosaic at the Bottom of the Garden,"Cirencester, Gloucestershire",True,False,,0.55,,
+7,3,One of the First Spitfires Lost in France,"Wierre-Effroy, France",True,True,season/episode,0.317,Lost WWII Spitfire Unearthed - Revealing the Pilot’s Final Battle | Time Team - S7 E3,https://www.youtube.com/watch?v=SSiGABqEXU8
+7,4,An Iron-Age Roundhouse and a Henge,"Waddon, Dorset",True,True,season/episode,0.246,Unearthing Wadden: 4000 Years of Secrets Beneath a Dorset Village | Time Team - S7 E4,https://www.youtube.com/watch?v=8nJ-nr1cA2k
+7,5,Hadrian's Wall,"Birdoswald, Cumbria",True,False,,0.375,,
+7,6,In Search of the Earliest Traces of Mankind,"Elveden, Suffolk",True,True,season/episode,1.0,"In Search of the Earliest Traces of Mankind (Full Episode) | S7 EP6 | Time Team (Elveden, Suffolk)",https://www.youtube.com/watch?v=OQSG2t4CTPQ
+7,7,The Missing Cathedral and the Diabetic Prior,"Coventry, West Midlands",True,True,season/episode,1.0,The Missing Cathedral and the Diabetic Prior (Full Episode) | S7 EP7 | Time Team (Coventry),https://www.youtube.com/watch?v=38EZEilgADQ
+7,8,The Royalists' Last Stand,"Basing House, Hampshire",True,False,,0.519,,
+7,9,A Bronze-Age Barrow and Walkway,"Flag Fen, Cambridgeshire",True,False,,0.438,,
+7,10,In Search of the Palace of King Offa,"Sutton St Nicholas, Herefordshire",True,True,season/episode,1.0,In Search of the Palace of King Offa (Full Episode) | S7 EP10 | Time Team (Sutton St Nicholas),https://www.youtube.com/watch?v=OI6F1qZ5zKU
+7,11,A Roman Temple in Sight of the Millennium Dome,"Greenwich, London",True,True,season/episode,1.0,A Roman Temple in Sight of the Millennium Dome (Full Episode) | S7 EP11 | Time Team (Greenwich),https://www.youtube.com/watch?v=g3XIfjA_XNc
+7,12,Nuns in Northumbria,"Hartlepool, County Durham",True,True,season/episode,1.0,"Nuns in Northumbria (Full Episode) | S7 EP12 | Time Team (Hartlepool, County Durham)",https://www.youtube.com/watch?v=yCokMXCER_g
+7,13,York,"York, Yorkshire",True,True,title,1.0,"Norman Neighbours (Full Episode) | S12 EP11 | Time Team (Skipsea, Yorkshire)",https://www.youtube.com/watch?v=hxrMW0l8Hxw
+8,1,An Anglo-Saxon Cemetery in Lincolnshire,"Normanton, Lincolnshire",True,False,,0.486,,
+8,2,The Man Who Bought a Castle,"Alderton, Northamptonshire",True,False,,0.567,,
+8,3,The Celtic Spring,"Llygadwy, Powys",True,True,season/episode,1.0,"The Celtic Spring (Full Episode) | S8 EP3 | Time Team (Llygadwy, Powys)",https://www.youtube.com/watch?v=C-cwSxc5-xk
+8,4,A Waltham Villa,"Waltham Field, Whittington, Gloucestershire",True,True,season/episode,1.0,"A Waltham Villa (Full Episode) | S8 EP4 | Time Team (Waltham Field, Whittington)",https://www.youtube.com/watch?v=flv_9l4JCuo
+8,5,The 'Lost Viaduct',"Blaenavon, Torfaen",True,True,season/episode,1.0,Unearthing the Lost Viaduct - Secrets of the World's First Railway Bridge | Time Team - S8 E5,https://www.youtube.com/watch?v=qtW0DJDJrKw
+8,6,A Palace Sold for Scrap,"Rycote, Thame, Oxfordshire",True,True,season/episode,1.0,"A Palace Sold for Scrap (Full Episode) | S8 EP6 | Time Team (Thame, Oxfordshire)",https://www.youtube.com/watch?v=9hs674DnvmM
+8,7,An Iron-Age Roundhouse,"Salisbury Plain, Wiltshire",True,False,,0.538,,
+8,8,The Bone Caves[3],"Alveston, Gloucestershire",True,True,season/episode,0.353,"The Bone Caves (Full Episode) | S8 EP8 | Time Team (Alveston, Gloucestershire)",https://www.youtube.com/watch?v=XFdQOoe9ZEc
+8,9,The Inter-City Villa[3],"Basildon, Berkshire",True,False,,0.549,,
+8,10,Holy Island,"Lindisfarne, Northumberland",True,True,season/episode,1.0,"Holy Island (Full Episode) | S8 EP10 | Time Team (Lindisfarne, Northumberland)",https://www.youtube.com/watch?v=VK-2j_eGE3I
+8,11,The Leaning Tower of Bridgnorth,"Bridgnorth, Shropshire",True,True,season/episode,1.0,The Leaning Tower of Bridgnorth (Full Episode) | S8 EP11 | Time Team (Shropshire),https://www.youtube.com/watch?v=Q_HhqW9uyjI
+8,12,Three Tales of Canterbury,"Canterbury, Kent",True,False,,0.491,,
+8,13,The Leper Hospital,"Winchester, Hampshire",True,False,,0.481,,
+9,1,London's First Bridge,"Vauxhall, London",True,True,season/episode,1.0,"London's First Bridge (Full Episode) | S9 EP1 | Time Team (Vauxhall, London)",https://www.youtube.com/watch?v=OhtdiyqvytI
+9,2,The Roman's Panic,"Ancaster, Lincolnshire",True,False,,0.524,,
+9,3,Diving for the Armada,"Kinlochbervie, Sutherland",True,True,season/episode,1.0,"Diving for the Armada (Full Episode) | S9 EP3 | Time Team (Kinlochbervie, Sutherland)",https://www.youtube.com/watch?v=sf8Qdy2gWxg
+9,4,The Naughty Monastery,"Chicksands, Bedfordshire",True,False,,0.456,,
+9,5,The Furnace in the Cellar,"Ironbridge Gorge, Shropshire",True,True,season/episode,1.0,The Furnace in the Cellar (Full Episode) | S9 EP5 | Time Team (Ironbridge Gorge),https://www.youtube.com/watch?v=27ZbSlRjgWw
+9,6,An Ermine Street Pub,"Cheshunt, Hertfordshire",True,False,,0.441,,
+9,7,Iron-Age Market,"Helford, Cornwall",True,True,season/episode,1.0,"Iron-Age Market (Full Episode) | S9 EP7 | Time Team (Helford, Cornwall)",https://www.youtube.com/watch?v=GoH0q0EBDQQ
+9,8,Siege House in Shropshire,"High Ercall, Shropshire",True,False,,0.459,,
+9,9,A Prehistoric Airfield,"Throckmorton, Worcestershire",True,False,,0.483,,
+9,10,A Lost Roman City,"Castleford, Yorkshire",True,False,,0.491,,
+9,11,Every Castle Needs a Lord,"Beaudesert, Warwickshire",True,False,,0.509,,
+9,12,Steptoe Et Filius,"Yaverland, Isle of Wight",True,False,,0.435,,
+9,13,Seven Buckets and a Buckle,"Breamore, Hampshire",True,True,season/episode,1.0,"Seven Buckets and a Buckle (Full Episode) | S9 EP13 | Time Team (Breamore, Hampshire)",https://www.youtube.com/watch?v=Qi1ijJGJ9L8
+10,1,Garden Secrets,"Raunds, Northamptonshire",True,False,,0.4,,
+10,2,"Mosaics, Mosaics, Mosaics","Dinnington, Somerset",True,False,,0.417,,
+10,3,Peak District Practices,"Carsington, Derbyshire",True,True,season/episode,1.0,"Peak District Practices (Full Episode) | S10 EP3 | Time Team (Carsington, Derbyshire)",https://www.youtube.com/watch?v=-ATi5An380E
+10,4,The Giant's Grave,"Fetlar, Shetland",True,False,,0.455,,
+10,5,Joust Dig It,"Greenwich, London",True,True,season/episode,1.0,"Joust Dig It (Full Episode) | S10 EP5 | Time Team (Greenwich, London)",https://www.youtube.com/watch?v=ewy921VSzD8
+10,6,Digging Liberty,"Merton, London",True,False,,0.458,,
+10,7,Death in a Crescent,"Bath, Somerset",True,False,,0.441,,
+10,8,Back to Our Roots[n 1],"Athelney, Somerset",True,False,,0.414,,
+10,9,Looking for the White House,"Kew Gardens, London",True,True,season/episode,1.0,Looking for the White House (Full Episode) | S10 EP9 | Time Team (Kew Gardens),https://www.youtube.com/watch?v=ayykqgn0nMU
+10,10,Rescuing the Dead,"Leven, Fife",True,True,season/episode,1.0,"Rescuing the Dead (Full Episode) | S10 EP10 | Time Team (Leven, Fife)",https://www.youtube.com/watch?v=CbbPTfUE6rY
+10,11,Not a Blot on the Landscape,"Castle Howard, North Yorkshire",True,False,,0.561,,
+10,12,A View to a Kiln,"Sedgefield, County Durham",True,True,season/episode,1.0,"A View to a Kiln (Full Episode) | S10 EP12 | Full Episode | Time Team (Sedgefield, County Durham)",https://www.youtube.com/watch?v=g6mnleThc_M
+10,13,Jailhouse Rocks,"Appleby-in-Westmorland, Cumbria",True,False,,0.409,,
+11,1,In Search of the Brigittine Abbey,"Syon House, London",True,False,,0.564,,
+11,2,A Roman Bath House and Edwardian Folly,"Whitestaunton Manor, Somerset",True,False,,0.475,,
+11,3,The Crannog in the Loch,"Loch Migdale, Scottish Highlands",True,False,,0.526,,
+11,4,Saxon Burials on the Ridge,"South Carlton, Lincolnshire",True,False,,0.58,,
+11,5,The Roman Fort That Wasn't There,"Syndale, Kent",True,True,title,1.0,The Roman Fort That Wasn't There | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=lFc7SpPINDU
+11,6,An Iron-Age Trading Centre,"Green Island, Dorset",True,True,title,1.0,"An Iron-Age Trading Centre, Green Island | FULL EPISODE | Time Team",https://www.youtube.com/watch?v=vE_SFeRftCc
+11,7,A Medieval Blast Furnace,"The Old Furnace, Oakamoor, Staffordshire",True,True,title,1.0,A Medieval Blast Furnace | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=4dI8r4JPM-s
+11,8,Rescuing a Mesolithic Foreshore,"Goldcliff, Newport",True,False,,0.438,,
+11,9,"Fertile Soils, Rich Archaeology","Wittenham Clumps, Oxfordshire",True,False,,0.447,,
+11,10,King Cnut's Manor,"Nassington, Northamptonshire",True,True,title,1.0,King Cnut's Manor | FULL EPISODE | Time Team,https://www.youtube.com/watch?v=0fYODmj8B3w
+11,11,Back-Garden Archaeology Revisiting a Roman villa,"Ipswich, Suffolk",True,False,,0.508,,
+11,12,The Lost City of Roxburgh,"Roxburgh, Scottish Borders",True,True,title,1.0,"The Lost City of Roxburgh, Scottish Borders | FULL EPISODE | Time Team",https://www.youtube.com/watch?v=6bG2UUgWoRI
+11,13,Brimming with Remains,"Cranborne Chase, Dorset",True,False,,0.484,,
+12,1,The Manor That's Back to Front,"Chenies Manor House, Buckinghamshire",True,True,season/episode,1.0,"The Manor That’s Back to Front (Full Episode) | S12 EP1 | Time Team (Chenies Manor, Buckinghamshire)",https://www.youtube.com/watch?v=CJbF9Kc9_ik
+12,2,The Monastery and the Mansion,"Nether Poppleton, North Yorkshire",True,True,season/episode,1.0,The Monastery and the Mansion (Full Episode) | S12 EP2 | Time Team (Nether Poppleton),https://www.youtube.com/watch?v=TMJ8sCjC5ag
+12,3,The Bombers in the Marsh,"Warton, Lancashire",True,True,season/episode,1.0,"The Bombers in the Marsh (Full Episode) | S12 EP3 | Time Team (Warton, Lancashire)",https://www.youtube.com/watch?v=wx6n3hJJxBM
+12,4,Fighting on the Frontier,"Drumlanrig, Dumfries and Galloway",True,True,season/episode,1.0,"Fighting On The Frontier (Full Episode) | S12 EP4 | Time Team (Drumlanrig, Dumfries)",https://www.youtube.com/watch?v=0zZHAitHQWQ
+12,5,A Neolithic Cathedral?,"Northborough, Cambridgeshire",True,True,season/episode,1.0,"A Neolithic Cathedral? (Full Episode) | S12 EP5 | Time Team (Northborough, Peterborough)",https://www.youtube.com/watch?v=PTDlKhS9I3c
+12,6,"In Search of Henry V's Flagship, Grace Dieu","Bursledon, Hampshire",True,True,season/episode,0.672,"In Search Of Henry V’s Flagship (Full Episode) | S12 EP6 | Time Team (Grace Dieu, Hampshire)",https://www.youtube.com/watch?v=XHZGN5L2zRA
+12,7,Going Upmarket with the Romans,"Standish, Gloucestershire",True,True,season/episode,1.0,"Going Upmarket With The Romans (Full Episode) | S12 EP7 | Time Team (Standish, Gloucestershire)",https://www.youtube.com/watch?v=TpVKVwgBsAE
+12,8,Picts and Hermits: Cave Dwellers of Fife,"Wemyss, Fife",True,True,season/episode,0.566,"Picts And Hermits (Full Episode) | S12 EP8 | Time Team (Wemyss, Fife)",https://www.youtube.com/watch?v=1SH8gmE9JDM
+12,9,Lost Centuries of St Osyth,"St Osyth, Essex",True,True,season/episode,1.0,"Lost Centuries of St Osyth (Full Episode) | S12 EP9 | Time Team (St Osyth, Essex)",https://www.youtube.com/watch?v=wCOFSRhFcAM
+12,10,The Puzzle of Picket's Farm,"South Perrott, Dorset",True,True,season/episode,1.0,"The Puzzle of Picket's Farm (Full Episode) | S12 EP10 | Time Team (South Perrott, Dorset)",https://www.youtube.com/watch?v=H69XbqOl-lA
+12,11,Norman Neighbours,"Skipsea, East Riding of Yorkshire",True,True,season/episode,1.0,"Norman Neighbours (Full Episode) | S12 EP11 | Time Team (Skipsea, Yorkshire)",https://www.youtube.com/watch?v=hxrMW0l8Hxw
+12,12,Hunting the Romans in South Shields - Tower Blocks and Togas,"South Shields, Tyne and Wear",True,True,season/episode,0.349,Tower Blocks and Togas (Full Episode) | S12 EP12 | Time Team (South Shields),https://www.youtube.com/watch?v=Gy9AqzZQR68
+12,13,Animal Farm,"Hanslope, Buckinghamshire",True,True,season/episode,1.0,"Animal Farm (Full Episode) | S12 EP13 | Time Team (Hanslope, Buckinghamshire)",https://www.youtube.com/watch?v=fMu3TjJ9Wzg
+13,1,The Bodies in the Shed - Glendon's Lost Graveyard,"Glendon, Northamptonshire",True,True,season/episode,0.5,Bodies In The Shed (Full Episode) | S13 EP1 | Time Team (Glendon),https://www.youtube.com/watch?v=oEs_us18fZU
+13,2,Villas out of Molehills,"Withington, Gloucestershire",True,True,season/episode,1.0,"Villas Out Of Molehills (Full Episode) | S13 EP2 | Time Team (Withington,Gloucestershire)",https://www.youtube.com/watch?v=g_8pd9lojng
+13,3,Rubble at the Mill,"Manchester, Greater Manchester",True,True,season/episode,1.0,Rubble At The Mill (Full Episode) | S13 EP3 | Time Team (Manchester),https://www.youtube.com/watch?v=P95goNAvJN4
+13,4,The First Tudor Palace?,"Esher, Surrey",True,True,season/episode,1.0,"The First Tudor Palace (Full Episode) | S13 EP4 | Time Team (Esher, Surrey)",https://www.youtube.com/watch?v=7dotgaD4CEI
+13,5,The Boat on the Rhine - A Roman Boat in Utrecht,"Utrecht, Netherlands",True,True,season/episode,0.547,"The Boat On The Rhine (Full Episode) | S13 EP5 | Time Team (Utrecht, Netherlands)",https://www.youtube.com/watch?v=6fIlOW0TFBk
+13,6,Court of the Kentish King,"Eastry, Kent",True,True,season/episode,1.0,"Court Of The Kentish King (Full Episode) | S13 EP6 | Time Team (Eastry, Kent)",https://www.youtube.com/watch?v=eboOPS1Isno
+13,7,The Monks' Manor,"Brimham, Harrogate, North Yorkshire",True,True,season/episode,0.375,"The Monk’s Manor (Full Episode) | S13 EP7 | Time Team (Brigham, Yorkshire)",https://www.youtube.com/watch?v=BVXNXtIkFls
+13,8,Castle in the Round,"Queenborough, Kent",True,True,season/episode,1.0,"Castle in the Round (Full Episode) | S13 EP8 | Time Team (Queenborough, Kent)",https://www.youtube.com/watch?v=MKwo8JCJ6qg
+13,9,Sussex Ups and Downs,"Blackpatch, West Sussex",True,True,season/episode,1.0,"Sussex Ups and Downs (Full Episode) | S13 EP9 | Time Team (Blackpatch, West Sussex)",https://www.youtube.com/watch?v=p7oZShw7ep8
+13,10,Birthplace of the Confessor,"Islip, Oxfordshire",True,True,season/episode,1.0,"Birthplace of the Confessor (Full Episode) | S13 EP10 | Time Team (Islip, Oxfordshire)",https://www.youtube.com/watch?v=vq4TYvviZa4
+13,11,Early Bath,"Ffrith, Flintshire",True,True,season/episode,1.0,"Early Bath (Full Episode) | S13 EP11 | Time Team (Ffrith, Flintshire)",https://www.youtube.com/watch?v=9148ynNBbMg
+13,12,The Taxman's Tavern - A Roman Mansio,"Alfoldean, Horsham, West Sussex",True,True,season/episode,0.587,The Taxman's Tavern: Roman Mansion (Full Episode) | S13 EP12 | Time Team (Alfoldean),https://www.youtube.com/watch?v=OubmpRSxV1g
+13,13,Scotch Broch,"Applecross, Scottish Highlands",True,True,season/episode,1.0,"Scotch Broch (Full Episode) | S13 EP13 | Time Team (Applecross, Scottish Highlands)",https://www.youtube.com/watch?v=6oAL4lqqeh0
+14,1,Finds on the Fairway,"Mount Murray, Isle of Man",True,True,season/episode,1.0,"Finds on the Fairway (Full Episode) | S14 EP1 | Time Team (Speke Keeill, Isle of Man)",https://www.youtube.com/watch?v=kW3UQEDQ0zQ
+14,2,There's No Place Like Rome,"Blacklands, near Frome, Somerset",True,True,season/episode,1.0,"There’s No Place Like Rome (Full Episode) | S14 EP2 | Time Team (Blacklands, Somerset)",https://www.youtube.com/watch?v=i_aavjEEynw
+14,3,School Diggers Medieval,"Hooke Court, Dorset",True,True,season/episode,0.437,"School Diggers (Full Episode) | S14 EP3 | Time Team (Hooke Court, Dorset)",https://www.youtube.com/watch?v=fUEy0ibHMc0
+14,4,The Druids' Last Stand,"Amlwch, Anglesey",True,True,season/episode,1.0,The Druids' Last Stand (Full Episode) | S14 EP4 | Time Team,https://www.youtube.com/watch?v=ZJ7MzmZ3MGA
+14,5,Sharpe's Redoubt,"Sandgate, Kent",True,True,season/episode,1.0,"Sharpe’s Redoubt (Full Episode) | S14 EP5 | Time Team (Sandgate, Kent)",https://www.youtube.com/watch?v=4zM7kZiz6HY
+14,6,A Port and Stilton,"Stilton, Cambridgeshire",True,True,season/episode,1.0,"A Port And Stilton (Full Episode) | S14 EP6 | Time Team (Stilton, Cambridgeshire)",https://www.youtube.com/watch?v=p8TyT1erodE
+14,7,A Tale of Two Villages,"Wicken, Northamptonshire",True,True,season/episode,1.0,"A Tale Of Two Villages (Full Episode) | S14 EP7 | Time Team (Wicken, Northamptonshire)",https://www.youtube.com/watch?v=V4SZfqbznps
+14,8,No Stone Unturned,"Warburton, Greater Manchester",True,True,season/episode,1.0,"No Stone Unturned (Full Episode) | S14 EP8 | Time Team (Warburton, Greater Manchester)",https://www.youtube.com/watch?v=A_owrnq7tZ0
+14,9,The Domesday Mill,"Dotton, Devon",True,True,season/episode,1.0,"The Domesday Mill (Full Episode) | S14 EP9 | Time Team (Dotton, Devon)",https://www.youtube.com/watch?v=VZuncwwRL6c
+14,10,The Cheyne Gang,"Chesham Bois, Buckinghamshire",True,True,season/episode,1.0,"The Cheyne Gang (Full Episode) | S14 EP10 | Time Team (Chesham Bois, Buckinghamshire)",https://www.youtube.com/watch?v=v7szfz-4I3E
+14,11,Road to the Relics,"Godstone, Surrey",True,True,season/episode,1.0,"Road To The Relics (Full Episode) | S14 EP11 | Time Team (Godstone, Surrey)",https://www.youtube.com/watch?v=jzawKzd5fLY
+14,12,The Abbey Habit,"Poulton, Cheshire",True,True,season/episode,1.0,"The Abbey Habit (Full Episode) | S14 EP12 | Time Team (Poulton, Cheshire)",https://www.youtube.com/watch?v=yVSjxxTZl0M
+14,13,In the Shadow of the Tor,"Bodmin Moor, Cornwall",True,True,season/episode,1.0,"In The Shadow Of The Tor (Full Episode) | S14 EP13 | Time Team (Bodmin Moor, Cornwall)",https://www.youtube.com/watch?v=B5_BPGGiBbY
+15,1,Gold in the Moat,"Codnor Castle, Derbyshire",True,True,season/episode,1.0,"Gold in the Moat (Full Episode) | S15 EP1 | Time Team (Codnor Castle, Derbyshire)",https://www.youtube.com/watch?v=HNi-08iIYHY
+15,2,Street of the Dead,"Binchester, County Durham",True,True,season/episode,1.0,"Street of the Dead (Full Episode) | S15 EP2 | Time Team (Binchester, County Durham)",https://www.youtube.com/watch?v=fv56PfqMweM
+15,3,Bodies in the Dunes,"Allasdale, Barra, Western Isles",True,True,season/episode,1.0,"Bodies In The Dunes (Full Episode) | S15 EP3 | Time Team (Barra, Outer Hebrides)",https://www.youtube.com/watch?v=hD7ZGLNUydc
+15,4,The Naughty Nuns of Northampton,"Towcester, Northamptonshire",True,False,,0.484,,
+15,5,Mysteries of the Mosaic,"Coberley, Gloucestershire",True,True,season/episode,1.0,"Mysteries Of The Mosaic (Full Episode) | S15 EP5 | Time Team (Coberley, Gloucestershire)",https://www.youtube.com/watch?v=3nobycsKBCs
+15,6,Blitzkrieg on Shooter's Hill,South London,True,True,season/episode,1.0,Blitzkrieg on Shooter's Hill (Full Episode) | S15 EP6 | Time Team (South London),https://www.youtube.com/watch?v=_2ieDurqaVs
+15,7,Keeping up with the Georgians,"Hunstrete, Somerset",True,True,season/episode,1.0,"Keeping Up With The Georgians (Full Episode) | S15 EP7 | Time Team (Hunstrete, Somerset)",https://www.youtube.com/watch?v=XvEV9VFGe8Y
+15,8,Saxons on the Edge,"Stonton Wyville, Leicestershire",True,True,season/episode,1.0,"Saxons On The Edge (Full Episode) | S15 EP8 | Time Team (Knave Hill, Leicestershire)",https://www.youtube.com/watch?v=u2UWHtQcDKk
+15,9,Fort of the Earls,"Dungannon, Northern Ireland",True,True,season/episode,1.0,"Fort Of The Earls (Full Episode) | S15 EP9 | Time Team (Dungannon, Northern Ireland)",https://www.youtube.com/watch?v=AC3KP8E0BEY
+15,10,From Constantinople to Cornwall,"Padstow, North Cornwall",True,True,season/episode,1.0,"From Constantinople to Cornwall (Full Episode) | S15 EP10 | Time Team (Padstow, Cornwall)",https://www.youtube.com/watch?v=hXMlmPsFfo8
+15,11,Five Thousand Tons of Stone,"Hamsterley, County Durham",True,True,season/episode,0.286,"5,000 Tonnes of Stone (Full Episode) | S15 EP11 | Time Team (Hamsterley, County Durham)",https://www.youtube.com/watch?v=KVzAeLFfwUQ
+15,12,The Romans Recycle,"Wickenby, Lincolnshire",True,True,season/episode,1.0,"The Romans Recycle (Full Episode) | S15 EP12 | Time Team (Wickenby, Lincolnshire)",https://www.youtube.com/watch?v=sFNYntf0f1Q
+15,13,Hunting King Harold,"Portskewett, Monmouthshire",True,True,season/episode,1.0,"Hunting King Harold (Full Episode) | S15 EP13 | Time Team (Portskewett, South Wales)",https://www.youtube.com/watch?v=afCFsm_gg9Y
+16,1,The Trouble with Temples,"Friar's Wash, Hertfordshire",True,True,season/episode,1.0,"The Trouble With Temples (Full Episode) | S16 EP1 | Time Team (Friar’s Wash, Hertfordshire)",https://www.youtube.com/watch?v=pl1qVxUubIk
+16,2,The Wedding Present,"Scargill, County Durham",True,True,season/episode,1.0,"The Wedding Present (Full Episode) | S16 EP2 | Time Team (Scargill Castle, County Durham)",https://www.youtube.com/watch?v=TVg2SJTzOko
+16,3,Heroes' Hill,"Knockdhu, County Antrim",True,True,season/episode,1.0,"Heroes' Hill (Full Episode) | S16 EP3 | Time Team (Knockdhu, Co Antrim)",https://www.youtube.com/watch?v=elqstC4JnWw
+16,4,Toga Town,"Caerwent, Monmouthshire",True,True,season/episode,1.0,"Toga Town (Full Episode) | S16 EP4 | Time Team (Caerwent, Monmouthshire)",https://www.youtube.com/watch?v=Q5wbyvYDdrU
+16,5,"Blood, Sweat and Beers","Rise Hill, Cumbria",True,True,season/episode,1.0,"Blood, Sweat and Beers (Full Episode) | S16 EP5 | Time Team (Rise Hill, Cumbria)",https://www.youtube.com/watch?v=wSl1UGTFuXg
+16,6,Buried Bishops and Belfries,"Salisbury Cathedral, Wiltshire",True,True,season/episode,1.0,"Buried Bishops and Belfries (Full Episode) | S16 EP6 | Time Team (Salisbury Cathedral, Wiltshire)",https://www.youtube.com/watch?v=AHAVcf1kyV0
+16,7,Anarchy in the UK,"Radcot, Oxfordshire",True,True,season/episode,1.0,"Anarchy in the UK (Full Episode) | S16 EP7 | Time Team (Radcot, Oxfordshire)",https://www.youtube.com/watch?v=8c74r2Mv1ws
+16,8,Mystery of the Ice Cream Villa,"Colworth, Bedfordshire",True,True,season/episode,1.0,"Mystery of the Ice Cream Villa (Full Episode) | S16 EP8 | Time Team (Colworth, Bedfordshire)",https://www.youtube.com/watch?v=5W4b0u3_PZY
+16,9,Hermit Harbour,"Looe, Cornwall",True,True,season/episode,1.0,"Hermit Harbour (Full Episode) | S16 EP9 | Time Team (Looe, Cornwall)",https://www.youtube.com/watch?v=s0TVoeGdlTc
+16,10,Called to the Bar,"Lincoln's Inn, London",True,True,season/episode,1.0,"Called to the Bar (Full Episode) | S16 EP10 | Time Team (Lincoln’s Inn, London)",https://www.youtube.com/watch?v=Bkbob3qcNw8
+16,11,Beacon on the Fens,"Chapel Head, Cambridgeshire",True,True,season/episode,1.0,"Beacon on the Fens (Full Episode) | S16 EP11 | Time Team (Chapel Head, Cambridgeshire)",https://www.youtube.com/watch?v=PUfW6BWBIjU
+16,12,The Hollow Way,"Ulnaby, County Durham",True,True,season/episode,1.0,"The Hollow Way (Full Episode) | S16 EP12 | Time Team (Ulnaby, County Durham)",https://www.youtube.com/watch?v=dBg79tFmpO0
+16,13,Skeletons in the Shed,"Blythburgh, Suffolk",True,True,season/episode,1.0,"Skeletons in the Shed (Full Episode) | S16 EP13 | Time Team (Blythburgh, Suffolk)",https://www.youtube.com/watch?v=NhRAnCR1RsU
+17,1,Corridors Of Power,"Westminster Abbey, London",True,True,season/episode,1.0,Corridors Of Power (Full Episode) | S17 EP1 | Time Team (Westminster),https://www.youtube.com/watch?v=z-1v_xUEySE
+17,2,A Saintly Site,"Isle of Mull, Inner Hebrides",True,True,season/episode,1.0,"A Saintly Site (Full Episode) | S17 EP2 | Time Team (Tobermory, Isle of Mull)",https://www.youtube.com/watch?v=uNSFPAprEpc
+17,3,Bridge Over The River Tees,"Piercebridge, County Durham",True,True,season/episode,1.0,"Bridge Over The River Tees (Full Episode) | S17 EP3 | Time Team (Piercebridge, County Durham)",https://www.youtube.com/watch?v=jE8EbufmLNE
+17,4,In The Halls Of A Saxon King,"Sutton Courtenay, Oxfordshire(actually Drayton, Oxfordshire)",True,True,season/episode,1.0,In The Halls Of A Saxon King (Full Episode) | S17 EP4 | Time Team (Sutton Courtenay),https://www.youtube.com/watch?v=0dBUhjQOhtk
+17,5,The Massacre In The Cellar,"Hopton Castle, Shropshire",True,True,season/episode,1.0,The Massacre In The Cellar (Full Episode) | S17 EP5 | Time Team (Hopton Castle),https://www.youtube.com/watch?v=MIiYOgmO-Cs
+17,6,Potted History,"Mildenhall, Wiltshire",True,True,season/episode,1.0,"Potted History (Full Episode) | S17 EP6 | Time Team (Mildenhall, Wiltshire)",https://www.youtube.com/watch?v=WU3G16hB4_I
+17,7,Death and Dominoes: The First POW Camp,"Norman Cross, Cambridgeshire",True,True,season/episode,0.491,"Death And Dominoes (Full Episode) | S17 EP7 | Time Team (Norman Cross, Cambridgeshire)",https://www.youtube.com/watch?v=xmWXDSDqf9Y
+17,8,Something For The Weekend,"Tregruk Castle, Llangybi, Monmouthshire",True,True,season/episode,1.0,"Something For The Weekend (Full Episode) | S17 EP8 | Time Team (Tregruk Castle, South Wales)",https://www.youtube.com/watch?v=eaewnXvuGM4
+17,9,Governor's Green,"Governor's Green, Portsmouth",True,True,season/episode,1.0,Governor's Green (Full Episode) | S17 EP9 | Time Team (Portsmouth),https://www.youtube.com/watch?v=uR-y6NLuKJs
+17,10,Priory Engagement,"Burford, Oxfordshire",True,True,season/episode,1.0,"Priory Engagement (Full Episode) | S17 EP10 | Time Team (Burford, Oxfordshire)",https://www.youtube.com/watch?v=DVqxhojvbqE
+17,11,There is A Villa Here Somewhere,"Litlington, Cambridgeshire",True,True,season/episode,0.577,There's a Villa Here Somewhere (Full Episode) | S17 EP11 | Time Team (Litlington),https://www.youtube.com/watch?v=qConIWslb64
+17,12,Commanding Heights,"Dinmore Hill, Herefordshire",True,True,season/episode,1.0,"Commanding Heights (Full Episode) | S17 EP12 | Time Team (Dinmore, Herefordshire)",https://www.youtube.com/watch?v=MoWV3Nx1f1w
+18,1,Reservoir Rituals,"Tottiford Reservoir, Devon",True,True,season/episode,1.0,"Reservoir Rituals (Full Episode) | S18 EP1 | Time Team (Tottiford, Devon)",https://www.youtube.com/watch?v=0Z-QPsnwlVM
+18,2,"Saxon Death, Saxon Gold","West Langton, Leicestershire",True,True,season/episode,1.0,"Saxon Death, Saxon Gold (Full Episode) | S18 EP2 | Time Team (West Langton, Leicestershire)",https://www.youtube.com/watch?v=ZQNk3gSSQjc
+18,3,Romans on the Range,"High Ham, Somerset",True,True,season/episode,1.0,"Romans on the Range (Full Episode) | S18 EP3 | Time Team (High Ham, Somerset)",https://www.youtube.com/watch?v=7nxKC8kn234
+18,4,Hitler's Island Fortress,"Les Gellettes, Jersey",True,True,season/episode,1.0,Hitler’s Island Fortress (Full Episode) | S18 EP4 | Time Team (Jersey),https://www.youtube.com/watch?v=_eIwid-2fX4
+18,5,Furnace in the Forest,"Derwentcote, County Durham",True,True,season/episode,1.0,"Furnace in the Forest (Full Episode) | S18 EP5 | Time Team (Derwentcote, County Durham)",https://www.youtube.com/watch?v=gbKGaH2Sjkg
+18,6,Under the Gravestones,"Castor, Cambridgeshire",True,True,season/episode,1.0,"Under The Gravestones (Full Episode) | S18 EP6 | Time Team (Castor, Cambridgeshire)",https://www.youtube.com/watch?v=JsPqSwvzazI
+18,7,House of the White Queen,"Groby, Leicestershire",True,True,season/episode,1.0,"House Of The White Queen (Full Episode) | S18 EP7 | Time Team (Groby, Leicestershire)",https://www.youtube.com/watch?v=yWr_URYYE_E
+18,8,Cannons and Castles,"Mont Orgueil, Jersey",True,True,season/episode,1.0,"Cannons and Castles (Full Episode) | S18 EP8 | Time Team (Mont Orgueil, Jersey)",https://www.youtube.com/watch?v=jNRr9WILcLQ
+18,9,Mystery of the Manor Moat,"Llancaiach Fawr, South Wales",True,True,season/episode,1.0,"Mystery of the Manor Moat (Full Episode) | S18 EP9 | Time Team (Llancaiach Fawr, South Wales)",https://www.youtube.com/watch?v=myzJiQiulsI
+18,10,Search for the Domesday Mill,"Buck Mill, Somerset",True,True,season/episode,1.0,"Search For the Domesday Mill (Full Episode) | S18 EP10 | Time Team (Buck Mill, Somerset)",https://www.youtube.com/watch?v=P3Phc0r441Q
+18,11,Rooting For The Romans,"Bedford Purlieus Wood, Cambridgeshire",True,True,season/episode,1.0,"Rooting for the Romans (Full Episode) | S18 EP11 | Time Team (Purlieus Wood, Cambridgeshire)",https://www.youtube.com/watch?v=mpyaqTRqBTc
+19,1,Dig By Wire,"Gateholm Island, Pembrokeshire",True,True,season/episode,1.0,"Dig By Wire (Full Episode) | S19 EP1 | Time Team (Gateholm Island, Pembrokeshire)",https://www.youtube.com/watch?v=jOkeiwPRKUE
+19,2,A Village Affair,"Bitterley, Shropshire",True,True,season/episode,1.0,"A Village Affair (Full Episode) | S19 EP2 | Time Team (Bitterley, Shropshire)",https://www.youtube.com/watch?v=2vdL4rdIObw
+19,3,The Drowned Town,"Dunwich, Suffolk",True,True,season/episode,1.0,"The Drowned Town (Full Episode) | S19 EP3 | Time Team (Dunwich, Suffolk)",https://www.youtube.com/watch?v=WN52fqz8TUw
+19,4,The First King of Racing,"Newmarket, Suffolk",True,True,season/episode,1.0,"The First King of Racing (Full Episode) | S19 EP4 | Time Team (Newmarket, Suffolk)",https://www.youtube.com/watch?v=U7_LwpGbL-4
+19,5,Chapel of Secrets,"Beadnell, Northumberland",True,True,season/episode,1.0,"Chapel Of Secrets (Full Episode) | S19 EP5 | Time Team (Beadnell, Northumberland)",https://www.youtube.com/watch?v=PKndTj9yhCQ
+19,6,A Copper Bottomed Dig,"Pentrechwyth, Swansea",True,True,season/episode,1.0,"A Copper Bottomed Dig (Full Episode) | S19 EP6 Time Team (Pentrechwyth, Swansea)",https://www.youtube.com/watch?v=dLHMuzUzzDk
+19,7,The Only Earl Is Essex,"Colne Priory, Essex",True,True,season/episode,1.0,"The Only Earl is Essex (Full Episode) | S19 EP7 | Time Team (Colne Priory, Essex)",https://www.youtube.com/watch?v=kMxLojFJXuI
+19,8,Secrets of the Dunes,"Kenfig, Bridgend",True,True,season/episode,1.0,"Secrets of the Dunes (Full Episode) | S19 EP8 | Time Team (Kenfig, Bridgend)",https://www.youtube.com/watch?v=tpsAVC_XQwY
+19,9,Rome's Wild West,"Caerleon, Newport",True,True,season/episode,1.0,"Rome’s Wild West (Full Episode) | S19 EP9 | Time Team (Caerleon, Newport)",https://www.youtube.com/watch?v=eJkoE8ijIW4
+19,10,How to Lose a Castle,"Crewkerne, Somerset",True,True,season/episode,1.0,"How to Lose a Castle (Full Episode) | S19 EP10 | Time Team (Crewkerne, Somerset)",https://www.youtube.com/watch?v=goJlGIOIDeo
+19,11,King John's Lost Palace,"Clipstone, Nottinghamshire",True,True,season/episode,1.0,"King John’s Lost Palace (Full Episode) | S19 EP11 | Time Team (Clipstone, Nottinghamshire)",https://www.youtube.com/watch?v=sQHb2mVzCpw
+19,12,Time Team's Guide to Burial - Compilation,N/A,False,True,title,0.676,➤ Time Team's Top 3 BURIAL GROUNDS,https://www.youtube.com/watch?v=bDYn-E9qwNU
+19,13,Time Team's Greatest Discoveries - Compilation.,N/A,False,True,title,0.747,Time Team's DEEPEST Discoveries...,https://www.youtube.com/watch?v=iWz6o5BFBkE
+20,1,The Forgotten Gunners of WWI,"Grantham, Lincolnshire",True,False,,0.462,,
+20,2,Brancaster,"Brancaster, Norfolk",True,False,,0.343,,
+20,3,A Capital Hill,"Ely, Cardiff",True,False,,0.44,,
+20,4,Henham's Lost Mansions,"Henham Park, Suffolk",True,False,,0.538,,
+20,5,Warriors,"Figheldean, Wiltshire",True,False,,0.3,,
+20,6,Lost Mines of Lakeland,"Coniston, Cumbria",True,False,,0.414,,
+20,7,Horseshoe Hall,"Oakham Castle, Rutland",True,False,,0.372,,
+20,8,Mystery of the Thames-side Villa,"Dropshort, Oxfordshire",True,False,,0.548,,
+20,9,The Lost Castle of Dundrum,"Dundrum Castle, County Down",True,True,title,0.61,The Lost Castle | Time Team Classic,https://www.youtube.com/watch?v=ZSv66Bk2RMk
+20,10,Wolsey's Lost Palace,"The More, Moor Park, Hertfordshire",True,False,,0.455,,
+20,11,An Englishman's Castle,"Upton Castle, Cosheston, Pembrokeshire",True,False,,0.492,,
+20,12,The Time Team Guide to Experimental Archaeology,N/A,False,True,title,0.602,Time Team Try Underwater Archaeology | Time Team,https://www.youtube.com/watch?v=R0eexuJ9mBg
+20,13,Twenty Years of Time Team,N/A,False,True,title,0.613,➤Top 3 Ancient Accessories ✨  I Time Team,https://www.youtube.com/watch?v=iOUMT499lYI
+21,1,Boden Iron Age Fogou (Cornwall),"Lizard Peninsula, Cornwall",False,False,,0.475,,
+21,2,Broughton Roman Villa,"Broughton Castle, Oxfordshire",False,False,,0.521,,
+21,3,Knights Hospitaller Preceptory,"Halston Hall, Shropshire",False,False,,0.448,,
+21,4,Anglo-Saxon Cemetery,"Winfarthing, Norfolk",False,False,,0.511,,
+22,1,Knights Hospitaller Preceptory,"Halston Hall, Whittington",False,False,,0.448,,
+22,2,Anglo-Saxon Cemetery,"Winfarthing, Norfolk",False,False,,0.511,,
+22,3,Ancient Greek City,"Vlochos, Greece",False,False,,0.519,,
+23,1,Modbury community dig,Modbury,False,True,title,0.604,➤ Time Team's Top 3 COMMUNITY Digs,https://www.youtube.com/watch?v=5K1v7zeSVAE
+23,2,Secrets of Wytch Farm,Dorset,False,False,,0.464,,
+,0,Pilot,"Dorchester, Oxfordshire",True,True,title,1.0,Lost WWII Spitfire Unearthed - Revealing the Pilot’s Final Battle | Time Team - S7 E3,https://www.youtube.com/watch?v=SSiGABqEXU8
+others,,Time Team History of Britain,N/A,False,True,title,0.712,➤ Time Team's HISTORY-MAKING Digs,https://www.youtube.com/watch?v=EBk8tyRVNNA
+others,,Behind the Scenes at Time Team,N/A,False,True,title,0.646,Queens Of The Digs (Part I) | Time Team,https://www.youtube.com/watch?v=CH2PYQKyTyY
+others,,10 Years of Time Team,N/A,False,True,title,0.604,The Best Of John Gater 🏛️  | Time Team,https://www.youtube.com/watch?v=WcOP0w6KElw

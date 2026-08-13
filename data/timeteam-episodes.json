@@ -1,0 +1,2117 @@
+[
+  {
+    "season": "",
+    "episode": "0",
+    "title": "Pilot",
+    "location": "Dorchester, Oxfordshire",
+    "lat": 51.643934,
+    "lng": -1.165309,
+    "year": ""
+  },
+  {
+    "season": 1,
+    "episode": "",
+    "title": "Title[2]",
+    "location": "Location[2]",
+    "lat": null,
+    "lng": null,
+    "year": ""
+  },
+  {
+    "season": 1,
+    "episode": "1",
+    "title": "The Guerrilla Base of the King",
+    "location": "Athelney, Somerset",
+    "lat": 51.059011,
+    "lng": -2.936678,
+    "year": "1994"
+  },
+  {
+    "season": 1,
+    "episode": "2",
+    "title": "On the Edge of an Empire",
+    "location": "Ribchester, Lancashire",
+    "lat": 53.811145,
+    "lng": -2.532268,
+    "year": "1994"
+  },
+  {
+    "season": 1,
+    "episode": "3",
+    "title": "The New Town of a Norman Prince",
+    "location": "Much Wenlock, Shropshire",
+    "lat": 52.595906,
+    "lng": -2.55725,
+    "year": "1994"
+  },
+  {
+    "season": 1,
+    "episode": "4",
+    "title": "The Fortress in the Lake",
+    "location": "Llangorse Lake, Powys",
+    "lat": 51.933672,
+    "lng": -3.268508,
+    "year": "1994"
+  },
+  {
+    "season": 2,
+    "episode": "1",
+    "title": "Lord of the Isles",
+    "location": "Finlaggan, Islay",
+    "lat": 55.834867,
+    "lng": -6.171225,
+    "year": "1995"
+  },
+  {
+    "season": 2,
+    "episode": "2",
+    "title": "The Saxon Graves",
+    "location": "Winterbourne Gunner, Wiltshire",
+    "lat": 51.115883,
+    "lng": -1.740619,
+    "year": "1995"
+  },
+  {
+    "season": 2,
+    "episode": "3",
+    "title": "The Lost Villa",
+    "location": "Tockenham, Wiltshire",
+    "lat": 51.512439,
+    "lng": -1.944539,
+    "year": "1995"
+  },
+  {
+    "season": 2,
+    "episode": "4",
+    "title": "The Archbishop's Back Garden",
+    "location": "Lambeth Palace, London",
+    "lat": 51.496999,
+    "lng": -0.11865,
+    "year": "1995"
+  },
+  {
+    "season": 2,
+    "episode": "5",
+    "title": "Medieval Dining Hall",
+    "location": "Hylton Castle, Sunderland",
+    "lat": 54.92253,
+    "lng": -1.44318,
+    "year": "1995"
+  },
+  {
+    "season": 3,
+    "episode": "1",
+    "title": "Prehistoric Fogou",
+    "location": "Boleigh, CornwallTreveneague, Cornwall",
+    "lat": 50.071303,
+    "lng": -5.582972,
+    "year": "1996"
+  },
+  {
+    "season": 3,
+    "episode": "2",
+    "title": "Hunting for Mammoth",
+    "location": "Stanton Harcourt, Oxfordshire",
+    "lat": 51.741998,
+    "lng": -1.402281,
+    "year": "1996"
+  },
+  {
+    "season": 3,
+    "episode": "3",
+    "title": "Village of the Templars",
+    "location": "Templecombe, Somerset",
+    "lat": 50.997661,
+    "lng": -2.415219,
+    "year": "1996"
+  },
+  {
+    "season": 3,
+    "episode": "4",
+    "title": "A Wreck of the Spanish Armada",
+    "location": "Teignmouth, Devon",
+    "lat": 50.548171,
+    "lng": -3.48941,
+    "year": "1996"
+  },
+  {
+    "season": 3,
+    "episode": "5",
+    "title": "Palace of the Irish Kings",
+    "location": "Emain MachaCreeveroeHaughey's FortBallydoo",
+    "lat": 54.3453,
+    "lng": -6.7186,
+    "year": "1996"
+  },
+  {
+    "season": 3,
+    "episode": "6",
+    "title": "Treasures of the Roman Field",
+    "location": "Lavenham, Suffolk",
+    "lat": 52.12409,
+    "lng": 0.83037,
+    "year": "1996"
+  },
+  {
+    "season": 4,
+    "episode": "1",
+    "title": "Episode One (Maryland, USA)",
+    "location": "St. Mary's City, Maryland, United States",
+    "lat": 38.189167,
+    "lng": -76.432222,
+    "year": "1997"
+  },
+  {
+    "season": 4,
+    "episode": "2",
+    "title": "Episode Two (Mystery of the Cornish Skeletons)",
+    "location": "Launceston, Cornwall",
+    "lat": 50.639822,
+    "lng": -4.334246,
+    "year": "1997"
+  },
+  {
+    "season": 4,
+    "episode": "3",
+    "title": "Steam-Powered Mint",
+    "location": "Soho, Birmingham",
+    "lat": 52.498633,
+    "lng": -1.923911,
+    "year": "1997"
+  },
+  {
+    "season": 4,
+    "episode": "4",
+    "title": "8th Century Church",
+    "location": "Govan, Glasgow",
+    "lat": 55.864368,
+    "lng": -4.312815,
+    "year": "1997"
+  },
+  {
+    "season": 4,
+    "episode": "5",
+    "title": "Norman and Medieval Castles",
+    "location": "Malton, North Yorkshire",
+    "lat": 54.134507,
+    "lng": -0.792469,
+    "year": "1997"
+  },
+  {
+    "season": 4,
+    "episode": "6",
+    "title": "Roman Villa",
+    "location": "Netheravon, Wiltshire",
+    "lat": 51.232406,
+    "lng": -1.789822,
+    "year": "1997"
+  },
+  {
+    "season": 5,
+    "episode": "1",
+    "title": "Episode One (Search for Richmond Palace)",
+    "location": "Richmond, Surrey",
+    "lat": 51.460373,
+    "lng": -0.310116,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "2",
+    "title": "Episode Two (Somerset Levels)",
+    "location": "Greylake, Somerset",
+    "lat": 51.098932,
+    "lng": -2.869454,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "3",
+    "title": "Episode Three (Sanday, Orkney)",
+    "location": "Sanday, Orkney",
+    "lat": 59.264121,
+    "lng": -2.60732,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "4",
+    "title": "Turkdean",
+    "location": "Turkdean, Gloucestershire",
+    "lat": 51.86964,
+    "lng": -1.85854,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "5",
+    "title": "Episode Five (Beaker Settlement, Mallorca, Spain)",
+    "location": "Deià, Mallorca, Spain",
+    "lat": 39.712479,
+    "lng": 2.600798,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "6",
+    "title": "Episode Six (Aston Eyre)",
+    "location": "Aston Eyre, Shropshire",
+    "lat": 52.543986,
+    "lng": -2.513156,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "7",
+    "title": "Episode Seven (Cathedral Hill, Downpatrick, County Down)",
+    "location": "Downpatrick, County Down",
+    "lat": 54.327224,
+    "lng": -5.721692,
+    "year": "1998"
+  },
+  {
+    "season": 5,
+    "episode": "8",
+    "title": "Episode Eight (High Worsall)",
+    "location": "High Worsall, North Yorkshire",
+    "lat": 54.478678,
+    "lng": -1.405971,
+    "year": "1998"
+  },
+  {
+    "season": 6,
+    "episode": "1",
+    "title": "Wedgwood's First Factory",
+    "location": "Burslem, Stoke-on-Trent",
+    "lat": 53.045818,
+    "lng": -2.196994,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "2",
+    "title": "Episode Two (Roman Building, Papcastle, Cumbria)",
+    "location": "Papcastle, Cumbria",
+    "lat": 54.668705,
+    "lng": -3.380394,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "3",
+    "title": "Episode Three (Dominican Friary, Thetford, Norfolk)",
+    "location": "Thetford, Norfolk",
+    "lat": 52.413928,
+    "lng": 0.744887,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "4",
+    "title": "Cooper's Hole",
+    "location": "Cheddar Gorge, Somerset",
+    "lat": 51.282857,
+    "lng": -2.763778,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "5",
+    "title": "Episode Five (Plympton, Devon)",
+    "location": "Plympton, Devon",
+    "lat": 50.382626,
+    "lng": -4.047981,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "6",
+    "title": "Episode Six (Medieval Dockyard, Smallhythe, Kent)",
+    "location": "Smallhythe, Kent",
+    "lat": 51.038072,
+    "lng": 0.700398,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "7",
+    "title": "Episode Seven (Roman Bath-house, Beauport Park, Sussex)",
+    "location": "Beauport Park, East Sussex",
+    "lat": 50.90247,
+    "lng": 0.539778,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "8",
+    "title": "Bombers in Reedham Marshes",
+    "location": "Reedham marshes, Norfolk",
+    "lat": 52.578406,
+    "lng": 1.586435,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "9",
+    "title": "Turkdean II",
+    "location": "Turkdean, Gloucestershire",
+    "lat": 51.869354,
+    "lng": -1.858265,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "10",
+    "title": "Episode Ten (Bronze Age, Kemerton, Worcestershire)",
+    "location": "Kemerton, Worcestershire",
+    "lat": 52.028665,
+    "lng": -2.086049,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "11",
+    "title": "Episode Eleven (Norman Church, Bawsey, Norfolk)",
+    "location": "Bawsey, Norfolk",
+    "lat": 52.759183,
+    "lng": 0.462398,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "12",
+    "title": "Nevis (Part 1 of 2)",
+    "location": "Nevis, West Indies",
+    "lat": 17.152638,
+    "lng": -62.612752,
+    "year": "1999"
+  },
+  {
+    "season": 6,
+    "episode": "13",
+    "title": "Nevis (Part 2 of 2)",
+    "location": "Nevis, West Indies",
+    "lat": 17.152638,
+    "lng": -62.612752,
+    "year": "1999"
+  },
+  {
+    "season": 7,
+    "episode": "1",
+    "title": "A Muslim Port in Spain",
+    "location": "Denia, Spain",
+    "lat": 38.840361,
+    "lng": 0.113166,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "2",
+    "title": "The Mosaic at the Bottom of the Garden",
+    "location": "Cirencester, Gloucestershire",
+    "lat": 51.712179,
+    "lng": -1.961577,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "3",
+    "title": "One of the First Spitfires Lost in France",
+    "location": "Wierre-Effroy, France",
+    "lat": 50.778998,
+    "lng": 1.741021,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "4",
+    "title": "An Iron-Age Roundhouse and a Henge",
+    "location": "Waddon, Dorset",
+    "lat": 50.670234,
+    "lng": -2.545086,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "5",
+    "title": "Hadrian's Wall",
+    "location": "Birdoswald, Cumbria",
+    "lat": 54.989232,
+    "lng": -2.604935,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "6",
+    "title": "In Search of the Earliest Traces of Mankind",
+    "location": "Elveden, Suffolk",
+    "lat": 52.392274,
+    "lng": 0.658067,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "7",
+    "title": "The Missing Cathedral and the Diabetic Prior",
+    "location": "Coventry, West Midlands",
+    "lat": 52.409056,
+    "lng": -1.508557,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "8",
+    "title": "The Royalists' Last Stand",
+    "location": "Basing House, Hampshire",
+    "lat": 51.270322,
+    "lng": -1.052882,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "9",
+    "title": "A Bronze-Age Barrow and Walkway",
+    "location": "Flag Fen, Cambridgeshire",
+    "lat": 52.575829,
+    "lng": -0.1845,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "10",
+    "title": "In Search of the Palace of King Offa",
+    "location": "Sutton St Nicholas, Herefordshire",
+    "lat": 52.109097,
+    "lng": -2.702415,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "11",
+    "title": "A Roman Temple in Sight of the Millennium Dome",
+    "location": "Greenwich, London",
+    "lat": 51.47856,
+    "lng": 0.004462,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "12",
+    "title": "Nuns in Northumbria",
+    "location": "Hartlepool, County Durham",
+    "lat": 54.695233,
+    "lng": -1.180206,
+    "year": "2000"
+  },
+  {
+    "season": 7,
+    "episode": "13",
+    "title": "York",
+    "location": "York, Yorkshire",
+    "lat": 53.959484,
+    "lng": -1.091878,
+    "year": "2000"
+  },
+  {
+    "season": 8,
+    "episode": "1",
+    "title": "An Anglo-Saxon Cemetery in Lincolnshire",
+    "location": "Normanton, Lincolnshire",
+    "lat": 53.003676,
+    "lng": -0.601684,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "2",
+    "title": "The Man Who Bought a Castle",
+    "location": "Alderton, Northamptonshire",
+    "lat": 52.116304,
+    "lng": -0.919547,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "3",
+    "title": "The Celtic Spring",
+    "location": "Llygadwy, Powys",
+    "lat": 51.884672,
+    "lng": -3.234257,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "4",
+    "title": "A Waltham Villa",
+    "location": "Waltham Field, Whittington, Gloucestershire",
+    "lat": 51.886678,
+    "lng": -1.991152,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "5",
+    "title": "The 'Lost Viaduct'",
+    "location": "Blaenavon, Torfaen",
+    "lat": 51.779242,
+    "lng": -3.090618,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "6",
+    "title": "A Palace Sold for Scrap",
+    "location": "Rycote, Thame, Oxfordshire",
+    "lat": 51.737413,
+    "lng": -1.035237,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "7",
+    "title": "An Iron-Age Roundhouse",
+    "location": "Salisbury Plain, Wiltshire",
+    "lat": 51.257064,
+    "lng": -1.737308,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "8",
+    "title": "The Bone Caves[3]",
+    "location": "Alveston, Gloucestershire",
+    "lat": 51.582499,
+    "lng": -2.530707,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "9",
+    "title": "The Inter-City Villa[3]",
+    "location": "Basildon, Berkshire",
+    "lat": 51.509468,
+    "lng": -1.126886,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "10",
+    "title": "Holy Island",
+    "location": "Lindisfarne, Northumberland",
+    "lat": 55.670528,
+    "lng": -1.798928,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "11",
+    "title": "The Leaning Tower of Bridgnorth",
+    "location": "Bridgnorth, Shropshire",
+    "lat": 52.532008,
+    "lng": -2.41966,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "12",
+    "title": "Three Tales of Canterbury",
+    "location": "Canterbury, Kent",
+    "lat": 51.278405,
+    "lng": 1.077766,
+    "year": "2001"
+  },
+  {
+    "season": 8,
+    "episode": "13",
+    "title": "The Leper Hospital",
+    "location": "Winchester, Hampshire",
+    "lat": 51.063401,
+    "lng": -1.280206,
+    "year": "2001"
+  },
+  {
+    "season": 9,
+    "episode": "1",
+    "title": "London's First Bridge",
+    "location": "Vauxhall, London",
+    "lat": 51.485502,
+    "lng": -0.127807,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "2",
+    "title": "The Roman's Panic",
+    "location": "Ancaster, Lincolnshire",
+    "lat": 52.980295,
+    "lng": -0.533225,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "3",
+    "title": "Diving for the Armada",
+    "location": "Kinlochbervie, Sutherland",
+    "lat": 58.433263,
+    "lng": -5.112194,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "4",
+    "title": "The Naughty Monastery",
+    "location": "Chicksands, Bedfordshire",
+    "lat": 52.040364,
+    "lng": -0.366011,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "5",
+    "title": "The Furnace in the Cellar",
+    "location": "Ironbridge Gorge, Shropshire",
+    "lat": 52.646124,
+    "lng": -2.577345,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "6",
+    "title": "An Ermine Street Pub",
+    "location": "Cheshunt, Hertfordshire",
+    "lat": 51.720624,
+    "lng": -0.054145,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "7",
+    "title": "Iron-Age Market",
+    "location": "Helford, Cornwall",
+    "lat": 50.077478,
+    "lng": -5.179886,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "8",
+    "title": "Siege House in Shropshire",
+    "location": "High Ercall, Shropshire",
+    "lat": 52.752459,
+    "lng": -2.602659,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "9",
+    "title": "A Prehistoric Airfield",
+    "location": "Throckmorton, Worcestershire",
+    "lat": 52.140294,
+    "lng": -2.042171,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "10",
+    "title": "A Lost Roman City",
+    "location": "Castleford, Yorkshire",
+    "lat": 53.724441,
+    "lng": -1.355467,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "11",
+    "title": "Every Castle Needs a Lord",
+    "location": "Beaudesert, Warwickshire",
+    "lat": 52.293401,
+    "lng": -1.772098,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "12",
+    "title": "Steptoe Et Filius",
+    "location": "Yaverland, Isle of Wight",
+    "lat": 50.671732,
+    "lng": -1.132267,
+    "year": "2002"
+  },
+  {
+    "season": 9,
+    "episode": "13",
+    "title": "Seven Buckets and a Buckle",
+    "location": "Breamore, Hampshire",
+    "lat": 50.954994,
+    "lng": -1.772017,
+    "year": "2002"
+  },
+  {
+    "season": 10,
+    "episode": "1",
+    "title": "Garden Secrets",
+    "location": "Raunds, Northamptonshire",
+    "lat": 52.34462,
+    "lng": -0.539447,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "2",
+    "title": "Mosaics, Mosaics, Mosaics",
+    "location": "Dinnington, Somerset",
+    "lat": 50.917925,
+    "lng": -2.849794,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "3",
+    "title": "Peak District Practices",
+    "location": "Carsington, Derbyshire",
+    "lat": 53.080321,
+    "lng": -1.64026,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "4",
+    "title": "The Giant's Grave",
+    "location": "Fetlar, Shetland",
+    "lat": 60.594185,
+    "lng": -0.867257,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "5",
+    "title": "Joust Dig It",
+    "location": "Greenwich, London",
+    "lat": 51.48223,
+    "lng": -0.004201,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "6",
+    "title": "Digging Liberty",
+    "location": "Merton, London",
+    "lat": 51.413519,
+    "lng": -0.183752,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "7",
+    "title": "Death in a Crescent",
+    "location": "Bath, Somerset",
+    "lat": 51.387727,
+    "lng": -2.366371,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "8",
+    "title": "Back to Our Roots[n 1]",
+    "location": "Athelney, Somerset",
+    "lat": 51.058863,
+    "lng": -2.934671,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "9",
+    "title": "Looking for the White House",
+    "location": "Kew Gardens, London",
+    "lat": 51.483024,
+    "lng": -0.294354,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "10",
+    "title": "Rescuing the Dead",
+    "location": "Leven, Fife",
+    "lat": 56.207395,
+    "lng": -3.003143,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "11",
+    "title": "Not a Blot on the Landscape",
+    "location": "Castle Howard, North Yorkshire",
+    "lat": 54.120905,
+    "lng": -0.908317,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "12",
+    "title": "A View to a Kiln",
+    "location": "Sedgefield, County Durham",
+    "lat": 54.655019,
+    "lng": -1.459104,
+    "year": "2003"
+  },
+  {
+    "season": 10,
+    "episode": "13",
+    "title": "Jailhouse Rocks",
+    "location": "Appleby-in-Westmorland, Cumbria",
+    "lat": 54.578305,
+    "lng": -2.488259,
+    "year": "2003"
+  },
+  {
+    "season": 11,
+    "episode": "1",
+    "title": "In Search of the Brigittine Abbey",
+    "location": "Syon House, London",
+    "lat": 51.47634,
+    "lng": -0.311899,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "2",
+    "title": "A Roman Bath House and Edwardian Folly",
+    "location": "Whitestaunton Manor, Somerset",
+    "lat": 50.889703,
+    "lng": -3.024814,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "3",
+    "title": "The Crannog in the Loch",
+    "location": "Loch Migdale, Scottish Highlands",
+    "lat": 57.892503,
+    "lng": -4.319505,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "4",
+    "title": "Saxon Burials on the Ridge",
+    "location": "South Carlton, Lincolnshire",
+    "lat": 53.28181,
+    "lng": -0.566168,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "5",
+    "title": "The Roman Fort That Wasn't There",
+    "location": "Syndale, Kent",
+    "lat": 51.313727,
+    "lng": 0.860548,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "6",
+    "title": "An Iron-Age Trading Centre",
+    "location": "Green Island, Dorset",
+    "lat": 50.67893,
+    "lng": -1.990799,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "7",
+    "title": "A Medieval Blast Furnace",
+    "location": "The Old Furnace, Oakamoor, Staffordshire",
+    "lat": 52.98913,
+    "lng": -1.939713,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "8",
+    "title": "Rescuing a Mesolithic Foreshore",
+    "location": "Goldcliff, Newport",
+    "lat": 51.532536,
+    "lng": -2.90395,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "9",
+    "title": "Fertile Soils, Rich Archaeology",
+    "location": "Wittenham Clumps, Oxfordshire",
+    "lat": 51.627914,
+    "lng": -1.180515,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "10",
+    "title": "King Cnut's Manor",
+    "location": "Nassington, Northamptonshire",
+    "lat": 52.552655,
+    "lng": -0.433747,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "11",
+    "title": "Back-Garden Archaeology Revisiting a Roman villa",
+    "location": "Ipswich, Suffolk",
+    "lat": 52.076522,
+    "lng": 1.132127,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "12",
+    "title": "The Lost City of Roxburgh",
+    "location": "Roxburgh, Scottish Borders",
+    "lat": 55.597499,
+    "lng": -2.448431,
+    "year": "2004"
+  },
+  {
+    "season": 11,
+    "episode": "13",
+    "title": "Brimming with Remains",
+    "location": "Cranborne Chase, Dorset",
+    "lat": 50.928594,
+    "lng": -2.039061,
+    "year": "2004"
+  },
+  {
+    "season": 12,
+    "episode": "1",
+    "title": "The Manor That's Back to Front",
+    "location": "Chenies Manor House, Buckinghamshire",
+    "lat": 51.674775,
+    "lng": -0.533114,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "2",
+    "title": "The Monastery and the Mansion",
+    "location": "Nether Poppleton, North Yorkshire",
+    "lat": 53.988279,
+    "lng": -1.148894,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "3",
+    "title": "The Bombers in the Marsh",
+    "location": "Warton, Lancashire",
+    "lat": 53.735285,
+    "lng": -2.935246,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "4",
+    "title": "Fighting on the Frontier",
+    "location": "Drumlanrig, Dumfries and Galloway",
+    "lat": 55.271321,
+    "lng": -3.80762,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "5",
+    "title": "A Neolithic Cathedral?",
+    "location": "Northborough, Cambridgeshire",
+    "lat": 52.662008,
+    "lng": -0.29183,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "6",
+    "title": "In Search of Henry V's Flagship, Grace Dieu",
+    "location": "Bursledon, Hampshire",
+    "lat": 50.891844,
+    "lng": -1.288816,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "7",
+    "title": "Going Upmarket with the Romans",
+    "location": "Standish, Gloucestershire",
+    "lat": 51.778168,
+    "lng": -2.29093,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "8",
+    "title": "Picts and Hermits: Cave Dwellers of Fife",
+    "location": "Wemyss, Fife",
+    "lat": 56.162351,
+    "lng": -3.057839,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "9",
+    "title": "Lost Centuries of St Osyth",
+    "location": "St Osyth, Essex",
+    "lat": 51.798826,
+    "lng": 1.06306,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "10",
+    "title": "The Puzzle of Picket's Farm",
+    "location": "South Perrott, Dorset",
+    "lat": 50.844866,
+    "lng": -2.752691,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "11",
+    "title": "Norman Neighbours",
+    "location": "Skipsea, East Riding of Yorkshire",
+    "lat": 53.967614,
+    "lng": -0.213551,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "12",
+    "title": "Hunting the Romans in South Shields - Tower Blocks and Togas",
+    "location": "South Shields, Tyne and Wear",
+    "lat": 55.000462,
+    "lng": -1.432911,
+    "year": "2005"
+  },
+  {
+    "season": 12,
+    "episode": "13",
+    "title": "Animal Farm",
+    "location": "Hanslope, Buckinghamshire",
+    "lat": 52.126082,
+    "lng": -0.873735,
+    "year": "2005"
+  },
+  {
+    "season": 13,
+    "episode": "1",
+    "title": "The Bodies in the Shed - Glendon's Lost Graveyard",
+    "location": "Glendon, Northamptonshire",
+    "lat": 52.423777,
+    "lng": -0.757779,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "2",
+    "title": "Villas out of Molehills",
+    "location": "Withington, Gloucestershire",
+    "lat": 51.832918,
+    "lng": -1.952569,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "3",
+    "title": "Rubble at the Mill",
+    "location": "Manchester, Greater Manchester",
+    "lat": 53.487311,
+    "lng": -2.236522,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "4",
+    "title": "The First Tudor Palace?",
+    "location": "Esher, Surrey",
+    "lat": 51.37374,
+    "lng": -0.376815,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "5",
+    "title": "The Boat on the Rhine - A Roman Boat in Utrecht",
+    "location": "Utrecht, Netherlands",
+    "lat": 52.080317,
+    "lng": 5.023004,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "6",
+    "title": "Court of the Kentish King",
+    "location": "Eastry, Kent",
+    "lat": 51.256012,
+    "lng": 1.312794,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "7",
+    "title": "The Monks' Manor",
+    "location": "Brimham, Harrogate, North Yorkshire",
+    "lat": 54.062747,
+    "lng": -1.662743,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "8",
+    "title": "Castle in the Round",
+    "location": "Queenborough, Kent",
+    "lat": 51.416134,
+    "lng": 0.748727,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "9",
+    "title": "Sussex Ups and Downs",
+    "location": "Blackpatch, West Sussex",
+    "lat": 50.874978,
+    "lng": -0.443323,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "10",
+    "title": "Birthplace of the Confessor",
+    "location": "Islip, Oxfordshire",
+    "lat": 51.82505,
+    "lng": -1.232742,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "11",
+    "title": "Early Bath",
+    "location": "Ffrith, Flintshire",
+    "lat": 53.090283,
+    "lng": -3.069603,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "12",
+    "title": "The Taxman's Tavern - A Roman Mansio",
+    "location": "Alfoldean, Horsham, West Sussex",
+    "lat": 51.0852,
+    "lng": -0.4046,
+    "year": "2006"
+  },
+  {
+    "season": 13,
+    "episode": "13",
+    "title": "Scotch Broch",
+    "location": "Applecross, Scottish Highlands",
+    "lat": 57.43176,
+    "lng": -5.81387,
+    "year": "2006"
+  },
+  {
+    "season": 14,
+    "episode": "1",
+    "title": "Finds on the Fairway",
+    "location": "Mount Murray, Isle of Man",
+    "lat": 54.140615,
+    "lng": -4.552331,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "2",
+    "title": "There's No Place Like Rome",
+    "location": "Blacklands, near Frome, Somerset",
+    "lat": 51.28541,
+    "lng": -2.336253,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "3",
+    "title": "School Diggers Medieval",
+    "location": "Hooke Court, Dorset",
+    "lat": 50.800806,
+    "lng": -2.666475,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "4",
+    "title": "The Druids' Last Stand",
+    "location": "Amlwch, Anglesey",
+    "lat": 53.405465,
+    "lng": -4.395224,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "5",
+    "title": "Sharpe's Redoubt",
+    "location": "Sandgate, Kent",
+    "lat": 51.076135,
+    "lng": 1.130013,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "6",
+    "title": "A Port and Stilton",
+    "location": "Stilton, Cambridgeshire",
+    "lat": 52.493863,
+    "lng": -0.27964,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "7",
+    "title": "A Tale of Two Villages",
+    "location": "Wicken, Northamptonshire",
+    "lat": 52.04817,
+    "lng": -0.914954,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "8",
+    "title": "No Stone Unturned",
+    "location": "Warburton, Greater Manchester",
+    "lat": 53.396554,
+    "lng": -2.438536,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "9",
+    "title": "The Domesday Mill",
+    "location": "Dotton, Devon",
+    "lat": 50.689403,
+    "lng": -3.295137,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "10",
+    "title": "The Cheyne Gang",
+    "location": "Chesham Bois, Buckinghamshire",
+    "lat": 51.688032,
+    "lng": -0.600434,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "11",
+    "title": "Road to the Relics",
+    "location": "Godstone, Surrey",
+    "lat": 51.2401,
+    "lng": -0.0666,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "12",
+    "title": "The Abbey Habit",
+    "location": "Poulton, Cheshire",
+    "lat": 53.125909,
+    "lng": -2.888253,
+    "year": "2007"
+  },
+  {
+    "season": 14,
+    "episode": "13",
+    "title": "In the Shadow of the Tor",
+    "location": "Bodmin Moor, Cornwall",
+    "lat": 50.603806,
+    "lng": -4.627464,
+    "year": "2007"
+  },
+  {
+    "season": 15,
+    "episode": "1",
+    "title": "Gold in the Moat",
+    "location": "Codnor Castle, Derbyshire",
+    "lat": 53.045125,
+    "lng": -1.354947,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "2",
+    "title": "Street of the Dead",
+    "location": "Binchester, County Durham",
+    "lat": 54.676036,
+    "lng": -1.674253,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "3",
+    "title": "Bodies in the Dunes",
+    "location": "Allasdale, Barra, Western Isles",
+    "lat": 56.995162,
+    "lng": -7.509125,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "4",
+    "title": "The Naughty Nuns of Northampton",
+    "location": "Towcester, Northamptonshire",
+    "lat": 52.150658,
+    "lng": -0.95281,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "5",
+    "title": "Mysteries of the Mosaic",
+    "location": "Coberley, Gloucestershire",
+    "lat": 51.835399,
+    "lng": -2.049679,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "6",
+    "title": "Blitzkrieg on Shooter's Hill",
+    "location": "South London",
+    "lat": 51.470522,
+    "lng": 0.071049,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "7",
+    "title": "Keeping up with the Georgians",
+    "location": "Hunstrete, Somerset",
+    "lat": 51.356569,
+    "lng": -2.509777,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "8",
+    "title": "Saxons on the Edge",
+    "location": "Stonton Wyville, Leicestershire",
+    "lat": 52.533367,
+    "lng": -0.908772,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "9",
+    "title": "Fort of the Earls",
+    "location": "Dungannon, Northern Ireland",
+    "lat": 54.5058,
+    "lng": -6.7674,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "10",
+    "title": "From Constantinople to Cornwall",
+    "location": "Padstow, North Cornwall",
+    "lat": 50.556811,
+    "lng": -4.951477,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "11",
+    "title": "Five Thousand Tons of Stone",
+    "location": "Hamsterley, County Durham",
+    "lat": 54.692457,
+    "lng": -1.840365,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "12",
+    "title": "The Romans Recycle",
+    "location": "Wickenby, Lincolnshire",
+    "lat": 53.336229,
+    "lng": -0.358506,
+    "year": "2008"
+  },
+  {
+    "season": 15,
+    "episode": "13",
+    "title": "Hunting King Harold",
+    "location": "Portskewett, Monmouthshire",
+    "lat": 51.58904,
+    "lng": -2.725399,
+    "year": "2008"
+  },
+  {
+    "season": 16,
+    "episode": "1",
+    "title": "The Trouble with Temples",
+    "location": "Friar's Wash, Hertfordshire",
+    "lat": 51.8193,
+    "lng": -0.4045,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "2",
+    "title": "The Wedding Present",
+    "location": "Scargill, County Durham",
+    "lat": 54.49173,
+    "lng": -1.91868,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "3",
+    "title": "Heroes' Hill",
+    "location": "Knockdhu, County Antrim",
+    "lat": 54.89111,
+    "lng": -5.905278,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "4",
+    "title": "Toga Town",
+    "location": "Caerwent, Monmouthshire",
+    "lat": 51.6133,
+    "lng": -2.77,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "5",
+    "title": "Blood, Sweat and Beers",
+    "location": "Rise Hill, Cumbria",
+    "lat": 54.29789,
+    "lng": -2.35983,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "6",
+    "title": "Buried Bishops and Belfries",
+    "location": "Salisbury Cathedral, Wiltshire",
+    "lat": 51.064722,
+    "lng": -1.7975,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "7",
+    "title": "Anarchy in the UK",
+    "location": "Radcot, Oxfordshire",
+    "lat": 51.693081,
+    "lng": -1.588644,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "8",
+    "title": "Mystery of the Ice Cream Villa",
+    "location": "Colworth, Bedfordshire",
+    "lat": 52.23212,
+    "lng": -0.57711,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "9",
+    "title": "Hermit Harbour",
+    "location": "Looe, Cornwall",
+    "lat": 50.34086,
+    "lng": -4.45412,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "10",
+    "title": "Called to the Bar",
+    "location": "Lincoln's Inn, London",
+    "lat": 51.516448,
+    "lng": -0.11376,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "11",
+    "title": "Beacon on the Fens",
+    "location": "Chapel Head, Cambridgeshire",
+    "lat": 52.415706,
+    "lng": -0.028039,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "12",
+    "title": "The Hollow Way",
+    "location": "Ulnaby, County Durham",
+    "lat": 54.549014,
+    "lng": -1.649417,
+    "year": "2009"
+  },
+  {
+    "season": 16,
+    "episode": "13",
+    "title": "Skeletons in the Shed",
+    "location": "Blythburgh, Suffolk",
+    "lat": 52.32183,
+    "lng": 1.5964,
+    "year": "2009"
+  },
+  {
+    "season": 17,
+    "episode": "1",
+    "title": "Corridors Of Power",
+    "location": "Westminster Abbey, London",
+    "lat": 51.49944,
+    "lng": -0.1275,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "2",
+    "title": "A Saintly Site",
+    "location": "Isle of Mull, Inner Hebrides",
+    "lat": 56.61167,
+    "lng": -6.08111,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "3",
+    "title": "Bridge Over The River Tees",
+    "location": "Piercebridge, County Durham",
+    "lat": 54.53528,
+    "lng": -1.67444,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "4",
+    "title": "In The Halls Of A Saxon King",
+    "location": "Sutton Courtenay, Oxfordshire(actually Drayton, Oxfordshire)",
+    "lat": 51.63972,
+    "lng": -1.29528,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "5",
+    "title": "The Massacre In The Cellar",
+    "location": "Hopton Castle, Shropshire",
+    "lat": 52.39583,
+    "lng": -2.93167,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "6",
+    "title": "Potted History",
+    "location": "Mildenhall, Wiltshire",
+    "lat": 51.42306,
+    "lng": -1.69083,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "7",
+    "title": "Death and Dominoes: The First POW Camp",
+    "location": "Norman Cross, Cambridgeshire",
+    "lat": 52.50556,
+    "lng": -0.29028,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "8",
+    "title": "Something For The Weekend",
+    "location": "Tregruk Castle, Llangybi, Monmouthshire",
+    "lat": 51.67139,
+    "lng": -2.92083,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "9",
+    "title": "Governor's Green",
+    "location": "Governor's Green, Portsmouth",
+    "lat": 50.78861,
+    "lng": -1.10306,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "10",
+    "title": "Priory Engagement",
+    "location": "Burford, Oxfordshire",
+    "lat": 51.80778,
+    "lng": -1.63694,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "11",
+    "title": "There is A Villa Here Somewhere",
+    "location": "Litlington, Cambridgeshire",
+    "lat": 52.06583,
+    "lng": -0.08722,
+    "year": "2010"
+  },
+  {
+    "season": 17,
+    "episode": "12",
+    "title": "Commanding Heights",
+    "location": "Dinmore Hill, Herefordshire",
+    "lat": 52.16083,
+    "lng": -2.70111,
+    "year": "2010"
+  },
+  {
+    "season": 18,
+    "episode": "1",
+    "title": "Reservoir Rituals",
+    "location": "Tottiford Reservoir, Devon",
+    "lat": 50.636,
+    "lng": -3.683,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "2",
+    "title": "Saxon Death, Saxon Gold",
+    "location": "West Langton, Leicestershire",
+    "lat": 52.52583,
+    "lng": -0.94,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "3",
+    "title": "Romans on the Range",
+    "location": "High Ham, Somerset",
+    "lat": 51.06167,
+    "lng": -2.82639,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "4",
+    "title": "Hitler's Island Fortress",
+    "location": "Les Gellettes, Jersey",
+    "lat": 49.20972,
+    "lng": -2.16,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "5",
+    "title": "Furnace in the Forest",
+    "location": "Derwentcote, County Durham",
+    "lat": 54.90389,
+    "lng": -1.79722,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "6",
+    "title": "Under the Gravestones",
+    "location": "Castor, Cambridgeshire",
+    "lat": 52.57278,
+    "lng": -0.34278,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "7",
+    "title": "House of the White Queen",
+    "location": "Groby, Leicestershire",
+    "lat": 52.66389,
+    "lng": -1.22694,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "8",
+    "title": "Cannons and Castles",
+    "location": "Mont Orgueil, Jersey",
+    "lat": 49.19944,
+    "lng": -2.01944,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "9",
+    "title": "Mystery of the Manor Moat",
+    "location": "Llancaiach Fawr, South Wales",
+    "lat": 51.66139,
+    "lng": -3.28139,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "10",
+    "title": "Search for the Domesday Mill",
+    "location": "Buck Mill, Somerset",
+    "lat": 51.05083,
+    "lng": -2.36361,
+    "year": "2011"
+  },
+  {
+    "season": 18,
+    "episode": "11",
+    "title": "Rooting For The Romans",
+    "location": "Bedford Purlieus Wood, Cambridgeshire",
+    "lat": 52.58694,
+    "lng": -0.45972,
+    "year": "2011"
+  },
+  {
+    "season": 19,
+    "episode": "1",
+    "title": "Dig By Wire",
+    "location": "Gateholm Island, Pembrokeshire",
+    "lat": 51.71944,
+    "lng": -5.23056,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "2",
+    "title": "A Village Affair",
+    "location": "Bitterley, Shropshire",
+    "lat": 52.39139,
+    "lng": -2.63222,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "3",
+    "title": "The Drowned Town",
+    "location": "Dunwich, Suffolk",
+    "lat": 52.27611,
+    "lng": 1.63,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "4",
+    "title": "The First King of Racing",
+    "location": "Newmarket, Suffolk",
+    "lat": 52.24389,
+    "lng": 0.40722,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "5",
+    "title": "Chapel of Secrets",
+    "location": "Beadnell, Northumberland",
+    "lat": 55.55111,
+    "lng": -1.62167,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "6",
+    "title": "A Copper Bottomed Dig",
+    "location": "Pentrechwyth, Swansea",
+    "lat": 51.63389,
+    "lng": -3.93306,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "7",
+    "title": "The Only Earl Is Essex",
+    "location": "Colne Priory, Essex",
+    "lat": 51.92667,
+    "lng": 0.71,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "8",
+    "title": "Secrets of the Dunes",
+    "location": "Kenfig, Bridgend",
+    "lat": 51.52889,
+    "lng": -3.72889,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "9",
+    "title": "Rome's Wild West",
+    "location": "Caerleon, Newport",
+    "lat": 51.60667,
+    "lng": -2.96611,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "10",
+    "title": "How to Lose a Castle",
+    "location": "Crewkerne, Somerset",
+    "lat": 50.89222,
+    "lng": -2.82472,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "11",
+    "title": "King John's Lost Palace",
+    "location": "Clipstone, Nottinghamshire",
+    "lat": 53.17667,
+    "lng": -1.09889,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "12",
+    "title": "Time Team's Guide to Burial - Compilation",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2012"
+  },
+  {
+    "season": 19,
+    "episode": "13",
+    "title": "Time Team's Greatest Discoveries - Compilation.",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2012"
+  },
+  {
+    "season": 20,
+    "episode": "1",
+    "title": "The Forgotten Gunners of WWI",
+    "location": "Grantham, Lincolnshire",
+    "lat": 52.93139,
+    "lng": -0.61389,
+    "year": "2012"
+  },
+  {
+    "season": 20,
+    "episode": "2",
+    "title": "Brancaster",
+    "location": "Brancaster, Norfolk",
+    "lat": 52.96389,
+    "lng": 0.65194,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "3",
+    "title": "A Capital Hill",
+    "location": "Ely, Cardiff",
+    "lat": 51.46722,
+    "lng": -3.24861,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "4",
+    "title": "Henham's Lost Mansions",
+    "location": "Henham Park, Suffolk",
+    "lat": 52.34167,
+    "lng": 1.60111,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "5",
+    "title": "Warriors",
+    "location": "Figheldean, Wiltshire",
+    "lat": 51.22111,
+    "lng": -1.76417,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "6",
+    "title": "Lost Mines of Lakeland",
+    "location": "Coniston, Cumbria",
+    "lat": 54.38111,
+    "lng": -3.10306,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "7",
+    "title": "Horseshoe Hall",
+    "location": "Oakham Castle, Rutland",
+    "lat": 52.67083,
+    "lng": -0.7275,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "8",
+    "title": "Mystery of the Thames-side Villa",
+    "location": "Dropshort, Oxfordshire",
+    "lat": 51.64167,
+    "lng": -1.28722,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "9",
+    "title": "The Lost Castle of Dundrum",
+    "location": "Dundrum Castle, County Down",
+    "lat": 54.26194,
+    "lng": -5.84472,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "10",
+    "title": "Wolsey's Lost Palace",
+    "location": "The More, Moor Park, Hertfordshire",
+    "lat": 51.63389,
+    "lng": -0.43722,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "11",
+    "title": "An Englishman's Castle",
+    "location": "Upton Castle, Cosheston, Pembrokeshire",
+    "lat": 51.70694,
+    "lng": -4.86861,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "12",
+    "title": "The Time Team Guide to Experimental Archaeology",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2013"
+  },
+  {
+    "season": 20,
+    "episode": "13",
+    "title": "Twenty Years of Time Team",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2013"
+  },
+  {
+    "season": 21,
+    "episode": "1",
+    "title": "Boden Iron Age Fogou (Cornwall)",
+    "location": "Lizard Peninsula, Cornwall",
+    "lat": null,
+    "lng": null,
+    "year": "2022"
+  },
+  {
+    "season": 21,
+    "episode": "2",
+    "title": "Broughton Roman Villa",
+    "location": "Broughton Castle, Oxfordshire",
+    "lat": null,
+    "lng": null,
+    "year": "2022"
+  },
+  {
+    "season": 21,
+    "episode": "3",
+    "title": "Knights Hospitaller Preceptory",
+    "location": "Halston Hall, Shropshire",
+    "lat": null,
+    "lng": null,
+    "year": "2023"
+  },
+  {
+    "season": 21,
+    "episode": "4",
+    "title": "Anglo-Saxon Cemetery",
+    "location": "Winfarthing, Norfolk",
+    "lat": null,
+    "lng": null,
+    "year": "2023"
+  },
+  {
+    "season": 22,
+    "episode": "1",
+    "title": "Knights Hospitaller Preceptory",
+    "location": "Halston Hall, Whittington",
+    "lat": null,
+    "lng": null,
+    "year": "2023"
+  },
+  {
+    "season": 22,
+    "episode": "2",
+    "title": "Anglo-Saxon Cemetery",
+    "location": "Winfarthing, Norfolk",
+    "lat": null,
+    "lng": null,
+    "year": "2023"
+  },
+  {
+    "season": 22,
+    "episode": "3",
+    "title": "Ancient Greek City",
+    "location": "Vlochos, Greece",
+    "lat": null,
+    "lng": null,
+    "year": ""
+  },
+  {
+    "season": 23,
+    "episode": "1",
+    "title": "Modbury community dig",
+    "location": "Modbury",
+    "lat": null,
+    "lng": null,
+    "year": "2024"
+  },
+  {
+    "season": 23,
+    "episode": "2",
+    "title": "Secrets of Wytch Farm",
+    "location": "Dorset",
+    "lat": null,
+    "lng": null,
+    "year": "2024"
+  },
+  {
+    "season": "others",
+    "episode": "",
+    "title": "Time Team History of Britain",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2000"
+  },
+  {
+    "season": "others",
+    "episode": "",
+    "title": "Behind the Scenes at Time Team",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2001"
+  },
+  {
+    "season": "others",
+    "episode": "",
+    "title": "10 Years of Time Team",
+    "location": "N/A",
+    "lat": null,
+    "lng": null,
+    "year": "2002"
+  }
+]

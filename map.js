@@ -36,6 +36,26 @@
     return m ? m[1] : null;
   }
 
+  // Escape text before putting it into HTML (labels come from data).
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"]/g, (c) =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  }
+
+  // Build the hover label. Up to three lines: title, location, "Sx Ey".
+  // Points that only have a title (e.g. the noodle map) show a single line.
+  function labelHTML(place) {
+    const lines = [];
+    if (place.title) lines.push('<strong>' + esc(place.title) + '</strong>');
+    if (place.location) lines.push(esc(place.location));
+    const s = place.season, e = place.episode;
+    if (s !== undefined && s !== null && s !== "" &&
+        e !== undefined && e !== null && e !== "") {
+      lines.push("S" + esc(s) + " E" + esc(e));
+    }
+    return lines.join("<br>");
+  }
+
   const map = L.map("map", { scrollWheelZoom: true });
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -52,14 +72,25 @@
       return; // no coordinates yet — skip
     }
     const id = getVideoId(place.video);
+    const tip = labelHTML(place);
+    const safeTitle = esc(place.title);
+
+    // No video (yet): show a plain location pin so the place still appears on the map.
     if (id === null) {
-      console.warn("Skipping (couldn't read a video ID):", place.title, place.video);
+      const dot = L.divIcon({
+        className: "",
+        html: `<div class="loc-marker"></div>`,
+        iconSize: [16, 16],
+        iconAnchor: [8, 8],
+      });
+      const m = L.marker([place.lat, place.lng], { icon: dot }).addTo(map);
+      m.bindTooltip(tip, { className: "yt-tip", direction: "top", offset: [0, -10] });
+      bounds.push([place.lat, place.lng]);
       return;
     }
 
     const thumb = `https://img.youtube.com/vi/${id}/hqdefault.jpg`;
     const watchUrl = `https://www.youtube.com/watch?v=${id}`;
-    const safeTitle = (place.title || "").replace(/"/g, "&quot;");
 
     const html = `
       <div class="yt-marker" title="${safeTitle}">
@@ -77,7 +108,7 @@
     });
 
     const marker = L.marker([place.lat, place.lng], { icon }).addTo(map);
-    marker.bindTooltip(place.title || "", { className: "yt-tip", direction: "top", offset: [0, -34] });
+    marker.bindTooltip(tip, { className: "yt-tip", direction: "top", offset: [0, -34] });
     marker.on("click", () => window.open(watchUrl, "_blank", "noopener"));
 
     bounds.push([place.lat, place.lng]);
