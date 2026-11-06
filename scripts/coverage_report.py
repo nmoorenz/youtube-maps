@@ -90,9 +90,12 @@ def per_season(rows):
 HTML_HEAD = """<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="favicon.svg" type="image/svg+xml" />
 <title>%(title)s</title>
 <style>
   body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; color: #1a1a1a; }
+  nav.nav { font-size: 13px; margin: 0 0 16px; }
+  nav.nav a { margin-right: 2px; }
   h1 { font-size: 22px; margin: 0 0 4px; }
   .summary { color: #444; margin-bottom: 16px; }
   table { border-collapse: collapse; width: 100%%; font-size: 13px; }
@@ -109,6 +112,11 @@ HTML_HEAD = """<!DOCTYPE html>
 </style></head><body>
 """
 
+NAV = ('<nav class="nav"><a href="index.html">&larr; All maps</a> &middot; '
+       '<a href="timeteam-classics.html">Map</a> &middot; '
+       '<a href="timeteam-coverage.html">Coverage</a> &middot; '
+       '<a href="timeteam-uploads.html">Uploads</a></nav>')
+
 
 def write_html(rows, path, title):
     total = len(rows)
@@ -120,6 +128,7 @@ def write_html(rows, path, title):
         return html.escape(str(s)) if s not in (None, "") else '<span class="muted">-</span>'
 
     parts = [HTML_HEAD % {"title": html.escape(title)}]
+    parts.append(NAV)
     parts.append("<h1>%s</h1>" % html.escape(title))
     pct = (100.0 * found / total) if total else 0
     parts.append('<div class="summary">%d episodes &middot; <strong>%d found</strong> (%.0f%%) &middot; '
@@ -180,7 +189,8 @@ def main():
     ap = argparse.ArgumentParser(description="Report which Time Team episodes have been found on the channel.")
     ap.add_argument("--episodes", default=os.path.join(DATA, "timeteam-episodes.json"))
     ap.add_argument("--videos", default=os.path.join(DATA, "timeteam-classics.json"))
-    ap.add_argument("--out", default=os.path.join(DATA, "timeteam-coverage"))
+    ap.add_argument("--slug", default="timeteam-coverage",
+                    help="output basename: HTML goes to the site root, CSV to data/")
     ap.add_argument("--threshold", type=float, default=0.6)
     args = ap.parse_args()
 
@@ -198,12 +208,14 @@ def main():
     rows = build_rows(episodes)
     rows.sort(key=season_key)
 
-    write_html(rows, args.out + ".html", "Time Team — episode coverage")
-    write_csv(rows, args.out + ".csv")
+    html_path = os.path.join(ROOT, args.slug + ".html")
+    csv_path = os.path.join(DATA, args.slug + ".csv")
+    write_html(rows, html_path, "Time Team — episode coverage")
+    write_csv(rows, csv_path)
 
     found = sum(1 for r in rows if r["found"])
     print("%d episodes, %d found, %d missing." % (len(rows), found, len(rows) - found))
-    print("Wrote %s.html and %s.csv" % (args.out, args.out))
+    print("Wrote %s and %s" % (html_path, csv_path))
 
 
 if __name__ == "__main__":

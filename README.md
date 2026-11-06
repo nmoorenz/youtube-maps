@@ -28,6 +28,7 @@ youtube-maps/
     wiki_episodes.py           Builds a Time Team episode list (with coords) from Wikipedia
     match_channel.py           Matches channel videos to the episode list -> map data
     coverage_report.py         Reports which Time Team episodes have/haven't been found
+    publications_report.py     Reports how many times each episode has been published
     update_timeteam.py         One command: refresh data, rebuild the map, report coverage
     csv_to_map.py              Builds a map page from a curated CSV of places
     build_map.py               Builds a map page from a hand-picked list of links
@@ -253,6 +254,12 @@ python scripts/update_timeteam.py --coverage-only  # just the found/missing numb
 It runs the steps in order and prints the coverage summary last. `--skip-fetch`
 reuses the videos already fetched; `--limit N` / `--sleep N` pass through to the
 fetch; `--dry-run` shows the steps without running them.
+
+It also writes `data/timeteam-publications.html` — every video listed
+newest-upload first, with a "published before" count: how many earlier uploads
+of that same episode (by `S/E` marker) already exist. `0` means it's the first
+time that episode has gone up (a genuinely new release); higher numbers are
+re-uploads. Good for scanning the most recent uploads to see what's actually new.
 
 **The map is based on the Wikipedia episode list, not the fetch.** Every episode
 that has coordinates becomes a marker: a clickable video thumbnail where a

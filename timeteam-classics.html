@@ -15,9 +15,15 @@
   <div class="titlebar" id="titlebar"></div>
   <div id="map"></div>
 
-  <!-- 1) Leaflet  2) this map's data  3) the shared renderer -->
+  <!-- 1) Leaflet  2) this map's data  3) per-channel links  4) the shared renderer -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="timeteam-classics.js"></script>
+  <script>
+    var MAP_LINKS = [
+      { href: "timeteam-coverage.html", label: "Coverage" },
+      { href: "timeteam-uploads.html", label: "Uploads" },
+    ];
+  </script>
   <script src="map.js"></script>
 </body>
 </html>

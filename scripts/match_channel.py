@@ -194,17 +194,26 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="%(datafile)s"></script>
-  <script src="map.js"></script>
+%(links)s  <script src="map.js"></script>
 </body>
 </html>
 """
 
 
-def write_html_if_missing(path, map_title, datafile):
+def links_script(links):
+    """Build the optional inline MAP_LINKS block for the page, or "" if none."""
+    if not links:
+        return ""
+    items = ", ".join('{ href: "%s", label: "%s" }' % (href, label) for label, href in links)
+    return "  <script>var MAP_LINKS = [%s];</script>\n" % items
+
+
+def write_html_if_missing(path, map_title, datafile, links=None):
     if os.path.exists(path):
         return False
     with open(path, "w", encoding="utf-8") as f:
-        f.write(HTML_TEMPLATE % {"title": map_title, "datafile": datafile})
+        f.write(HTML_TEMPLATE % {"title": map_title, "datafile": datafile,
+                                 "links": links_script(links)})
     return True
 
 
@@ -248,6 +257,8 @@ def main():
     ap.add_argument("--threshold", type=float, default=0.6, help="title-fallback strictness 0-1 (default 0.6)")
     ap.add_argument("--matched-only", action="store_true",
                     help="only map episodes that matched a video (default: every episode with coordinates)")
+    ap.add_argument("--link", nargs=2, metavar=("LABEL", "URL"), action="append", default=[],
+                    help="extra title-bar link on the page, e.g. --link Coverage timeteam-coverage.html (repeatable)")
     ap.add_argument("--no-html", action="store_true", help="don't create the .html page")
     ap.add_argument("--no-index", action="store_true", help="don't touch index.html")
     ap.add_argument("--review", action="store_true", help="also write <slug>-review.csv with match details")
@@ -284,7 +295,7 @@ def main():
     print("Wrote %s (%d markers — thumbnails where a video matched, pins otherwise)." % (js_name, n))
 
     if not args.no_html:
-        if write_html_if_missing(os.path.join(ROOT, html_name), map_title, js_name):
+        if write_html_if_missing(os.path.join(ROOT, html_name), map_title, js_name, links=args.link):
             print("Created %s" % html_name)
     if not args.no_index:
         add_to_index(html_name, map_title, args.note, index_path=os.path.join(ROOT, "index.html"))

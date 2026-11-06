@@ -77,6 +77,7 @@ def main():
         steps.append(("Refresh the thumbnail", [script("make_previews.py"), args.out + ".js", "--region", args.region]))
 
     steps.append(("Coverage comparison", [script("coverage_report.py")]))
+    steps.append(("Publications report", [script("publications_report.py")]))
 
     for i, (desc, argv) in enumerate(steps, 1):
         header = "[%d/%d] %s" % (i, len(steps), desc)
@@ -90,7 +91,7 @@ def main():
             sys.exit("\nStopped: step '%s' failed (exit %d)." % (desc, result.returncode))
 
     if not args.dry_run:
-        print("\nDone. Full table: data/timeteam-coverage.html")
+        print("\nDone. Coverage: timeteam-coverage.html | Uploads: timeteam-uploads.html")
         if not args.coverage_only:
             print("Updated site files: %s.js, %s.png (and index.html if new)." % (args.out, args.out))
 
