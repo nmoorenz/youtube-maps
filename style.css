@@ -42,6 +42,7 @@ html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, Seg
   text-align: center; line-height: 1.35;
 }
 .leaflet-tooltip.yt-tip strong { font-weight: 700; }
+.leaflet-tooltip.yt-tip .yt-sub { color: #ccc; font-size: 11px; }
 
 /* Search box (top-right of the map). */
 .map-search {
@@ -62,6 +63,7 @@ html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, Seg
 .map-search-item:last-child { border-bottom: 0; }
 .map-search-item:hover { background: #eef3f8; }
 .map-search-item .r-title { display: block; font-size: 13px; font-weight: 600; color: #1a1a1a; }
+.map-search-item .r-yt { display: block; font-size: 12px; color: #444; }
 .map-search-item .r-loc { display: block; font-size: 12px; color: #777; }
 .map-search-empty { padding: 8px 12px; color: #888; font-size: 13px; }
 

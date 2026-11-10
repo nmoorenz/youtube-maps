@@ -52,6 +52,10 @@
   function labelHTML(place) {
     const lines = [];
     if (place.title) lines.push('<strong>' + esc(place.title) + '</strong>');
+    // Show the YouTube title too, when it differs from the episode title.
+    if (place.video_title && place.video_title !== place.title) {
+      lines.push('<span class="yt-sub">' + esc(place.video_title) + '</span>');
+    }
     if (place.location) lines.push(esc(place.location));
     const s = place.season, e = place.episode;
     if (s !== undefined && s !== null && s !== "" &&
@@ -61,9 +65,10 @@
     return lines.join("<br>");
   }
 
-  // Searchable text for a place: title, location, and "s7 e7" / "s7e7" forms.
+  // Searchable text for a place: episode title, YouTube title, location,
+  // and "s7 e7" / "s7e7" forms.
   function searchText(p) {
-    let t = (p.title || "") + " " + (p.location || "");
+    let t = (p.title || "") + " " + (p.video_title || "") + " " + (p.location || "");
     const s = p.season, e = p.episode;
     if (s !== undefined && s !== null && s !== "" &&
         e !== undefined && e !== null && e !== "") {
@@ -99,8 +104,10 @@
                       p.episode !== undefined && p.episode !== null && p.episode !== "")
             ? " &middot; S" + esc(p.season) + " E" + esc(p.episode) : "";
           const loc = p.location ? '<span class="r-loc">' + esc(p.location) + "</span>" : "";
+          const yt = (p.video_title && p.video_title !== p.title)
+            ? '<span class="r-yt">' + esc(p.video_title) + "</span>" : "";
           return '<div class="map-search-item" data-i="' + i + '">' +
-                 '<span class="r-title">' + esc(p.title || "") + se + "</span>" + loc + "</div>";
+                 '<span class="r-title">' + esc(p.title || "") + se + "</span>" + yt + loc + "</div>";
         }).join("");
       }
       list.hidden = false;

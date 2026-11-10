@@ -166,9 +166,10 @@ def write_js(episodes, path, map_title, matched_only):
                 continue  # can't place it on the map without coordinates
             title = (ep.get("title") or "").replace('"', "'")
             location = (ep.get("location") or "").replace('"', "'")
+            video_title = (ep.get("video_title") or "").replace('"', "'")
             s, e = to_int(ep.get("season")), to_int(ep.get("episode"))
-            f.write('  { title: "%s", location: "%s", season: %s, episode: %s, video: "%s", lat: %s, lng: %s },\n'
-                    % (title, location,
+            f.write('  { title: "%s", video_title: "%s", location: "%s", season: %s, episode: %s, video: "%s", lat: %s, lng: %s },\n'
+                    % (title, video_title, location,
                        s if s is not None else "null",
                        e if e is not None else "null",
                        ep.get("video_url", ""), ep["lat"], ep["lng"]))
