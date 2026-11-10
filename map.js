@@ -51,16 +51,19 @@
   // Points that only have a title (e.g. the noodle map) show a single line.
   function labelHTML(place) {
     const lines = [];
+    // Line 1: Wikipedia episode title.
     if (place.title) lines.push('<strong>' + esc(place.title) + '</strong>');
-    // Show the YouTube title too, when it differs from the episode title.
-    if (place.video_title && place.video_title !== place.title) {
-      lines.push('<span class="yt-sub">' + esc(place.video_title) + '</span>');
-    }
-    if (place.location) lines.push(esc(place.location));
+    // Line 2: location + "Sx Ey" on one line.
     const s = place.season, e = place.episode;
-    if (s !== undefined && s !== null && s !== "" &&
-        e !== undefined && e !== null && e !== "") {
-      lines.push("S" + esc(s) + " E" + esc(e));
+    const hasSE = s !== undefined && s !== null && s !== "" &&
+                  e !== undefined && e !== null && e !== "";
+    const bits = [];
+    if (place.location) bits.push(esc(place.location));
+    if (hasSE) bits.push("S" + esc(s) + " E" + esc(e));
+    if (bits.length) lines.push(bits.join(", "));
+    // Line 3: YouTube title, when it differs from the episode title.
+    if (place.video_title && place.video_title !== place.title) {
+      lines.push(esc(place.video_title));
     }
     return lines.join("<br>");
   }

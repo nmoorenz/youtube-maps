@@ -42,7 +42,6 @@ html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, Seg
   text-align: center; line-height: 1.35;
 }
 .leaflet-tooltip.yt-tip strong { font-weight: 700; }
-.leaflet-tooltip.yt-tip .yt-sub { color: #ccc; font-size: 11px; }
 
 /* Search box (top-right of the map). */
 .map-search {
